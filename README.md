@@ -47,9 +47,9 @@ Before running PhenoBridge, download all five resource folders listed below:
 
 - en_core_sci_scibert-0.5.4 (through https://allenai.github.io/scispacy/, model called en_core_sci_scibert) 
 - HPO: run the 'build_hashmap'
-sapbert_onnx
-SnomedCT_InternationalRF2_PRODUCTION_20260301T120000Z
-vector_spaces
+- sapbert_onnx (through huggingFace: https://huggingface.co/MaunikG/SapBERT-from-PubMedBERT-fulltext-ONNX)
+- SnomedCT_InternationalRF2_PRODUCTION_20260301T120000Z (through https://uts.nlm.nih.gov/uts/)
+- vector_spaces: run 'save_HPO_embeddings.py' to create vector spaces
 
 Once downloaded, place all five folders directly inside the project's resource/ directory. The expected structure is:
 
