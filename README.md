@@ -41,5 +41,26 @@ Interface:
 run with 
     python -m streamlit run interface/app.py  
 
+Required resources
 
-Resources needed are all present except the Clinical-AI-Apollo/Medical-NER. You can download it from Hugging Face
+Before running PhenoBridge, download all five resource folders listed below:
+
+en_core_sci_scibert-0.5.4
+HPO
+sapbert_onnx
+SnomedCT_InternationalRF2_PRODUCTION_20260301T120000Z
+vector_spaces
+
+Once downloaded, place all five folders directly inside the project's resource/ directory. The expected structure is:
+
+project/
+├── resource/
+│   ├── en_core_sci_scibert-0.5.4/
+│   ├── HPO/
+│   ├── sapbert_onnx/
+│   ├── SnomedCT_InternationalRF2_PRODUCTION_20260301T120000Z/
+│   └── vector_spaces/
+├── ...
+
+Do not rename the folders or place them in subdirectories, as PhenoBridge expects these resources at these exact locations.
+You also need to download the Clinical-AI-Apollo/Medical-NER. You can download it from Hugging Face.
