@@ -1,0 +1,239 @@
+11312426
+Nevoid basal cell carcinoma syndrome (NBCCS) is a genodermatosis with autosomal dominant inheritance. In identified kindreds the diagnosis is relatively easy, but for the patients without family history of this syndrome a high clinical suspicion is necessary for diagnosis.  Acrochordons are distinctly uncommon in childhood. Our purpose was to evaluate skin tags that develop at an early age.  This is a retrospective series evaluation of 7 children who presented with pedunculated papules (acrochordon-like growths). A full history was then correlated with biopsy results in each patient.  Clinically, lesions consisted of flesh-colored and pigmented pedunculated papules. Histopathologic examination of these papules showed basal cell carcinomas in each biopsy specimen.  We consider that "skin tag"-like basal cell carcinomas in childhood may represent a marker for NBCCS. Early diagnosis of this syndrome and early sun protection of the affected children could help decrease the number of lifetime tumors. Biopsy should be performed on acrochordons in children because they may be the presenting sign of NBCCS. Because these tags may precede other stigmata of the NBCCS, recognition may facilitate early diagnosis and allow early treatment and sun protection.
+7	27	basal cell carcinoma	HP:0002671
+354	363	skin tags	HP:0010609
+470	490	pedunculated papules	HP:0200034
+727	748	basal cell carcinomas	HP:0002671
+793	801	skin tag	HP:0010609
+808	829	basal cell carcinomas	HP:0002671
+1003	1009	tumors	HP:0002664
+1041	1053	acrochordons	HP:0010609
+
+11338037
+In this report we present a subject affected by nevoid basal cell carcinoma syndrome (NBCCS), showing also bilateral mandibular coronoid processes hyperplasia, a hitherto unreported association. Our observation of bilateral hyperplasia of the mandibular coronoid processes in a boy with NBCCS may prompt a retrospective and prospective review of other patients affected by this syndrome in order to establish if this anomaly is part of it.
+55	75	basal cell carcinoma	HP:0002671
+107	158	bilateral mandibular coronoid processes hyperplasia	HP:0000277
+214	272	bilateral hyperplasia of the mandibular coronoid processes	HP:0000277
+
+11425952
+The authors report a patient with neurofibromatosis type 2 (NF2) presenting with an axonal mononeuropathy multiplex. Sural nerve biopsy showed small scattered groups of Schwann cells transformed into irregular branching cells with abnormal cell-cell contacts. The authors hypothesize that defective Schwann cell function, due to inactivation of the NF2 gene product merlin, leads to changes in morphology, cell-cell contact, and growth, and finally to degeneration of axons.
+34	51	neurofibromatosis	HP:0001067
+84	115	axonal mononeuropathy multiplex	HP:0009831
+169	194	Schwann cells transformed	HP:0100008
+289	320	defective Schwann cell function	HP:0100008
+452	473	degeneration of axons	HP:0000764
+
+12900905
+We present the case of a 14-year-old Japanese girl who had both Gorlin syndrome and ulcerative colitis. She had complained of blood stools for 6 months and severe scoliosis from her infancy. Physical examination revealed multiple nevi, palmar and plantar pits, jaw cysts, and calcification of the falx cerebri, leading to the diagnosis of Gorlin syndrome. Total colonoscopy revealed an edematous and spotty bleeding mucosa extending from the anus to the transverse colon. Histological examination was also compatible with ulcerative colitis. Thus, we diagnosed her as having Gorlin syndrome with ulcerative colitis. Gene analysis revealed a mutation, 1247InsT, in the human patched gene (PTCH), resulting in the truncation of PTCH protein. Since Gorlin syndrome and ulcerative colitis are rare disorders in childhood, this association is interesting, suggesting a correlation between the hedgehog signaling and intestinal disorders.
+84	102	ulcerative colitis	HP:0100279
+95	102	colitis	HP:0002583
+126	138	blood stools	HP:0002573
+163	172	scoliosis	HP:0002650
+221	234	multiple nevi	HP:0001054
+236	259	palmar and plantar pits	HP:0010610
+247	259	plantar pits	HP:0010612
+255	259	pits	HP:0004467
+261	270	jaw cysts	HP:0010603
+276	309	calcification of the falx cerebri	HP:0005462
+386	422	edematous and spotty bleeding mucosa	HP:0004295
+522	540	ulcerative colitis	HP:0100279
+533	540	colitis	HP:0002583
+596	614	ulcerative colitis	HP:0100279
+607	614	colitis	HP:0002583
+766	784	ulcerative colitis	HP:0100279
+777	784	colitis	HP:0002583
+911	931	intestinal disorders	HP:0002012
+
+14699618
+The phenotype of Gorlin-Goltz syndrome or basal cell nevus syndrome (BCNS, #109400, OMIM), a Mendelian trait due to PTCH mutations has been reported in a few cases of interstitial deletion of chromosome 9q. We present an 11-year-old girl with clinical features consistent with BCNS including bridging of sella turcica, biparietal bossing, downward slanting palpebral fissures, mandible prognathism, pectus excavatum, thumb abnormalities, occult spina bifida at L5-S4, numerous basal cell nevi, and single basal cell carcinoma. Cytogenetic analysis using high-resolution banding techniques and fluorescence in situ hybridization (FISH) revealed interstitial chromosome deletion 9q22.32-q33.2 involving the PTCH gene as a secondary breakage event to a chromosome translocation t(9;17)(q34.1;p11.2)mat. Further FISH studies showed the translocation breakpoint on 9q34.11 maps proximal to ABL, between the BAC clone RP11-88G17 and the LMX1B gene. The latter gene encodes a transcription factor, in which loss of function mutations are responsible for the nail-patella syndrome (NPS, #161200 OMIM). Interestingly, some features of our proband (e.g., bilateral patellar dysplasia and abnormal clavicular shape), as well as her healthy sister who carries the same translocation, are also found in patients with NPS. The chromosome 17p11.2 breakpoint maps in the Smith-Magenis syndrome common deletion region, within two overlapping BAC clones, CTD-2354J3 and RP11-311F12.
+42	67	basal cell nevus syndrome	HP:0002671
+292	317	bridging of sella turcica	HP:0005449
+319	337	biparietal bossing	HP:0000242
+339	375	downward slanting palpebral fissures	HP:0000494
+377	397	mandible prognathism	HP:0000303
+399	415	pectus excavatum	HP:0000767
+417	436	thumb abnormalities	HP:0001172
+438	457	occult spina bifida	HP:0003298
+445	457	spina bifida	HP:0002414
+468	492	numerous basal cell nevi	HP:0001054
+477	492	basal cell nevi	HP:0002671
+505	525	basal cell carcinoma	HP:0002671
+1155	1173	patellar dysplasia	HP:0006446
+1178	1203	abnormal clavicular shape	HP:0000889
+
+1750770
+Two very preterm infants (born at 29 and 25 weeks, respectively) were found to have abnormal ribs. Though this was thought unimportant at the time, it was subsequently shown to indicate that some members of their families had a dominantly inherited risk of developing skin cancer and other serious problems.
+9	24	preterm infants	HP:0001622
+84	97	abnormal ribs	HP:0000772
+268	279	skin cancer	HP:0008069
+273	279	cancer	HP:0002664
+
+1789288
+We report on a family in which individuals at risk for NF 2 were investigated with the use of gadolinium-enhanced MRI. This technique has allowed the diagnosis of small (less than 8 mm) acoustic neuromas in two asymptomatic children (age 7 and 11), one of whom had normal audiometric and brainstem-evoked response testing. To our knowledge these are the youngest asymptomatic patients in whom the diagnosis of NF 2 has been demonstrated. It is possible that acoustic neuromas develop at an early age more commonly than recognized previously. The early diagnosis of acoustic neuromas with the use of gadolinium-enhanced MRI may lead to better outcome following surgery. This technique will provide the opportunity to better determine the natural course of this disease.
+186	203	acoustic neuromas	HP:0009588
+458	475	acoustic neuromas	HP:0009588
+565	582	acoustic neuromas	HP:0009588
+
+18177466
+Branchio-oto-renal (BOR) and Stickler (STL) syndromes are disorders that include hearing loss among their clinical features. STL syndrome type I (STL1) is a combination of ophthalmic, orofacial, articular, and auditory manifestations, caused by mutations in the COL2A1. BOR syndrome is an autosomal dominant trait encompassing branchial, otic and renal anomalies because of mutations in EYA1, SIX1 and SIX5. In this study, we have clinically and genetically diagnosed a proband that displayed STL1 and BOR syndromes. This patient and his younger brother exhibited hearing loss and cleft palate. Both siblings and their mother also showed myopia, congenital non-progressive vitreous anomaly and a flat face. Taken together, these clinical features are consistent with the diagnosis of a familial case of STL. Sequence analysis revealed in the three patients a novel COL2A1 mutation (c.1468_1475delinsT) that accounted for a STL1 phenotype. The proband also displayed pre-auricular pits, branchial fistulae and renal agenesis that define BOR syndrome. Interestingly, this patient carries an EYA1 mutation, p.R328X, which was not present in the two other patients or in his healthy father, supporting that the mutation arose de novo. In conclusion, this report highlights the importance of molecular testing and detailed clinical evaluation for the diagnosis of syndromes with overlapping phenotypic features.
+81	93	hearing loss	HP:0000365
+172	233	ophthalmic, orofacial, articular, and auditory manifestations	HP:0000478
+184	233	orofacial, articular, and auditory manifestations	HP:0000153
+195	233	articular, and auditory manifestations	HP:0001367
+210	233	auditory manifestations	HP:0000364
+327	362	branchial, otic and renal anomalies	HP:0009794
+338	362	otic and renal anomalies	HP:0000598
+347	362	renal anomalies	HP:0000077
+564	576	hearing loss	HP:0000365
+581	593	cleft palate	HP:0000175
+638	644	myopia	HP:0000545
+673	689	vitreous anomaly	HP:0007773
+696	705	flat face	HP:0000272
+966	984	pre-auricular pits	HP:0004467
+986	995	branchial	HP:0009794
+986	1004	branchial fistulae	HP:0009795
+1009	1023	renal agenesis	HP:0000104
+
+2729353
+We report on a 4-year-old girl with Angelman syndrome who has an apparent de-novo del(15) (q11q13) originating from a maternally derived chromosome. Her mother had severe brachycephaly, sensorineural hearing loss, speech impediment, and mild ataxia. CT brain scans showed an enlarged foramen magnum in the mother and daughter but magnetic resonance imaging (MRI) showed no brainstem abnormality in either. This family demonstrates that some Angelman syndrome cases may be dominantly transmitted with variable expression and associated with abnormal or cytogenetically apparently normal chromosome 15.
+171	184	brachycephaly	HP:0000248
+186	212	sensorineural hearing loss	HP:0000407
+200	212	hearing loss	HP:0000365
+214	231	speech impediment	HP:0002167
+237	248	mild ataxia	HP:0001251
+275	298	enlarged foramen magnum	HP:0002700
+373	394	brainstem abnormality	HP:0002363
+
+3799714
+The family on which this report is based is of interest because it contains individuals with the branchio-oto-renal (BOR) syndrome who have renal hypoplasia or malformations of the kidney or collecting system including duplication; only branchial and ear anomalies; and apparent nonpenetrance of the syndrome. This report provides evidence to support the hypothesis that in some families variable expressivity includes duplication of the urinary collecting system in individuals with other manifestations of the BOR syndrome as well as individuals with branchial and ear anomalies who have apparently normal kidneys.
+140	156	renal hypoplasia	HP:0000089
+160	208	malformations of the kidney or collecting system	HP:0004742
+160	230	malformations of the kidney or collecting system including duplication	HP:0000081
+160	187	malformations of the kidney	HP:0012210
+237	246	branchial	HP:0009794
+251	264	ear anomalies	HP:0000598
+419	463	duplication of the urinary collecting system	HP:0000081
+553	580	branchial and ear anomalies	HP:0009794
+567	580	ear anomalies	HP:0000598
+
+3943073
+Six patients with typical features of the multiple basal cell nevus syndrome were studied cytogenetically, using prometaphase G-banding and C-banding. Three patients were from one family and the others were sporadic cases. No cytogenetic marker of the disease was identified using these techniques.
+51	76	basal cell nevus syndrome	HP:0002671
+
+6823972
+No difference in survival was observed between cultured cells from basal cell naevus syndrome (BCNS) patients and normal controls following exposure of fibroblasts to ionizing radiation. Potential lethal damage repair in BCNS cells, measured by holding experiments, was also no different from normal. G0-irradiated lymphocytes from BCNS patients were found to have a significantly higher level of X-ray-induced chromosome aberrations compared with normals. This increase is, however, small, and, taken together with the survival data, suggests that increased cell killing as a measure of the unusual clinical radiosensitivity is not the major effect of the BCNS gene.
+67	84	basal cell naevus	HP:0002671
+
+6829601
+Two unrelated children (one male, the other female) had unusual craniofacial anomalies consisting of hemangiomatous branchial clefts, lip pseudoclefts, and identical unusual facial appearance. One also had unilateral microphthalmia and both had congenital nasolacrimal duct obstruction. Two similar, sporadic cases from the literature were also identified. These four cases form the basis of a new, distinctly recognizable pattern of malformation.
+56	86	unusual craniofacial anomalies	HP:0001999
+101	132	hemangiomatous branchial clefts	HP:0009794
+134	150	lip pseudoclefts	HP:0000159
+166	191	unusual facial appearance	HP:0001999
+217	231	microphthalmia	HP:0000568
+256	285	nasolacrimal duct obstruction	HP:0000579
+
+712760
+A family is described in which 16 individuals in 3 generations have Charcot-Marie-Tooth disease. At least 6 family members also have the naevoid basal cell carcinoma syndrome. In addition, 1 subject with both disorders has 2 young daughters with the naevoid basal cell carcinoma syndrome.
+145	165	basal cell carcinoma	HP:0002671
+258	278	basal cell carcinoma	HP:0002671
+
+7417945
+Four patients representing four generations of one family suffered from the multiple nevoid basal cell carcinoma syndrome. These cases are described and the importance of examination and careful supervision of the progeny of such patients is discussed. A unique finding in this series was a large congenital lung cyst occupying the left thoracic cavity of 1 patient.
+76	91	multiple nevoid	HP:0001054
+92	112	basal cell carcinoma	HP:0002671
+297	317	congenital lung cyst	HP:0010959
+308	317	lung cyst	HP:0005948
+
+7485365
+To evaluate the ocular abnormalities in patients with clinically diagnosed neurofibromatosis 2 and asymptomatic gene carriers.  Probands were ascertained through a surgical otolaryngology practice. In a cross-sectional study, we examined 49 patients with neurofibromatosis 2, 30 offspring of patients, and, as a comparison group, 18 parents and siblings of patients with sporadic neurofibromatosis 2. The examination included a complete neuro-ophthalmic assessment, physical examination, and, for patients and first-degree relatives at risk, cranial and spinal magnetic resonance imaging with gadolinium enhancement, if not previously performed.  The most common ocular abnormalities were posterior subcapsular or capsular, cortical, or mixed lens opacities in 33 (67%) of 49 patients with neurofibromatosis 2 and retinal hamartomas in 11 (22%). We used segregation analysis to determine the mutation carrier status of six at-risk offspring who were 30 years old or younger in two multigeneration families. Three asymptomatic mutation carriers had cataracts, whereas those who were predicted not to carry the mutation did not have cataracts. Asymptomatic mutation carriers may have developmental abnormalities of the eye that are detectable in childhood or adolescence, a finding that may assist in early diagnosis of the disease.  A variety of ocular abnormalities are present in neurofibromatosis 2, including cataracts, retinal hamartomas, and ocular motor deficits. Many of these are developmental or acquired early in life and may assist in presymptomatic diagnosis. For screening at-risk relatives of patients with neurofibromatosis 2, the types of cataract that are most suggestive of neurofibromatosis 2 are plaque-like posterior subcapsular or capsular cataract and cortical cataract with onset under the age of 30 years.
+16	36	ocular abnormalities	HP:0000315
+75	92	neurofibromatosis	HP:0001067
+255	272	neurofibromatosis	HP:0001067
+380	397	neurofibromatosis	HP:0001067
+663	683	ocular abnormalities	HP:0000315
+689	757	posterior subcapsular or capsular, cortical, or mixed lens opacities	HP:0007787
+714	757	capsular, cortical, or mixed lens opacities	HP:0100020
+724	757	cortical, or mixed lens opacities	HP:0100019
+743	757	lens opacities	HP:0000518
+790	807	neurofibromatosis	HP:0001067
+814	832	retinal hamartomas	HP:0009594
+1048	1057	cataracts	HP:0000518
+1131	1140	cataracts	HP:0000518
+1182	1209	developmental abnormalities	HP:0001263
+1196	1220	abnormalities of the eye	HP:0000478
+1345	1365	ocular abnormalities	HP:0000315
+1381	1398	neurofibromatosis	HP:0001067
+1412	1421	cataracts	HP:0000518
+1423	1441	retinal hamartomas	HP:0009594
+1447	1468	ocular motor deficits	HP:0000496
+1621	1638	neurofibromatosis	HP:0001067
+1655	1663	cataract	HP:0000518
+1692	1709	neurofibromatosis	HP:0001067
+1728	1770	posterior subcapsular or capsular cataract	HP:0007787
+1753	1770	capsular cataract	HP:0100017
+1762	1770	cataract	HP:0000518
+1775	1792	cortical cataract	HP:0100019
+1784	1792	cataract	HP:0000518
+
+7802001
+We analyzed 61 Angelman syndrome (AS) patients by cytogenetic and molecular techniques. On the basis of molecular findings, the patients were classified into the following 4 groups: familial cases without deletion, familial cases with submicroscopic deletion, sporadic cases with deletion, and sporadic cases without deletion. Among 53 sporadic cases, 37 (70%) had molecular deletion, which commonly extended from D15S9 to D15S12, although not all deletions were identical. Of 8 familial cases, 3 sibs from one family had a molecular deletion involving only 2 loci, D15S10 and GABRB3, which define the critical region for AS phenotypes. The parental origin of deletion, both in sporadic and familial cases, was exclusively maternal and consistent with a genomic imprinting hypothesis. Among sporadic and familial cases without deletion, no uniparental disomy was found and most of them were shown to inherit chromosomes 15 from both parents (biparental inheritance). A discrepancy between cytogenetic and molecular deletion was observed in 14 (26%) of 53 patients in whom cytogenetic analysis could be performed. Ten (43%) of 23 patients with a normal karyotype showed a molecular deletion, and 4 (13%) of 30 patients with cytogenetic deletion, del(15) (q11q13), showed no molecular deletion. Most clinical manifestations, including neurological signs and facial characteristics, were not distinct in each group except for hypopigmentation of skin or hair. Familial cases with submicroscopic deletion were not associated with hypopigmentation. These findings suggested that a gene for hypopigmentation is located outside the critical region of AS and is not imprinted.
+1333	1351	neurological signs	HP:0000707
+1356	1378	facial characteristics	HP:0001999
+1423	1447	hypopigmentation of skin	HP:0001010
+1423	1439	hypopigmentation	HP:0007513
+1423	1455	hypopigmentation of skin or hair	HP:0005599
+1526	1542	hypopigmentation	HP:0007513
+1585	1601	hypopigmentation	HP:0007513
+
+7905534
+Angelman syndrome (AS) results from a lack of maternal contribution from chromosome 15q11-13, arising from de novo deletion in most cases or rarely from uniparental disomy. These families are associated with a low recurrence risk. However, in a minority of families, more than one child is affected. No deletion has been found in these families, except one. The mode of inheritance in these families is autosomal dominant modified by imprinting. Sporadic cases, with no observable deletion, therefore pose a counselling dilemma as there could be a recurrence risk as high as 50%. We present a series of 93 AS patients, showing the relative contribution of these different genetic mechanisms. Eighty-one AS patients were sporadic cases while 12 cases came from six families. Sixty cases had deletions in 15q11-13 detected by a set of highly polymorphic (CA)n repeats markers and conventional RFLPs. Ten sporadic cases plus all 12 familial cases had no detectable deletion. In addition, two cases of de novo deletions occurred in a chromosome 15 carrying a pericentric inversion. In one of these the AS child had a cousin with Prader-Willi syndrome (PWS) arising from a de novo deletion in an inv(15) inherited from his father. One case arose from a maternal balanced t(9;15)(p24;q15) translocation. There were three cases of uniparental disomy. Five patients were monoallelic for all loci across the minimal AS critical region, but the presence of a deletion cannot be confirmed. In familial cases, all affected sibs inherited the same maternal chromosome 15 markers for the region 15q11-13. Two cases were observed with a de novo deletion starting close to the locus D15S11 (IR4-2R), providing evidence for the development of classical AS with smaller deletions. Cytogenetic analysis proved limited in its ability to detect deletions, detecting only 42 out of 60 cases. However, cytogenetic analysis is still essential to detect chromosomal abnormalities other than deletions such as inversions and balanced translocations since both have an increased risk for deletions. A staged diagnostic strategy based on the use of highly informative (CA)n repeat markers is proposed.
+
+8145850
+The mutation brachypodism (bp) alters the length and number of bones in the limbs of mice but spares the axial skeleton. It illustrates the importance of specific genes in controlling the morphogenesis of individual skeletal elements in the tetrapod limb. We now report the isolation of three new members of the transforming growth factor-beta (TGF-beta) superfamily (growth/differentiation factors (GDF) 5,6 and 7) and show by mapping, expression patterns and sequencing that mutations in Gdf5 are responsible for skeletal alterations in bp mice. GDF5 and the closely related GDF6 and GDF7 define a new subgroup of factors related to known bone- and cartilage-inducing molecules, the bone morphogenetic proteins (BMPs). Studies of Bmp5 mutations in short ear mice have shown that at least one other BMP gene is also required for normal skeletal development. The highly specific skeletal alterations in bp and short ear mice suggest that different members of the BMP family control the formation of different morphological features in the mammalian skeleton.
+750	759	short ear	HP:0400005
+910	919	short ear	HP:0400005
+
+8352281
+Nevoid basal cell carcinoma syndrome (NBCCS; basal cell nevus syndrome or Gorlin syndrome) is a cancer-predisposition syndrome characterized by multiple basal cell carcinomas (BCCs) and diverse developmental defects. The gene for NBCCS has been mapped to 9q23.1-q31 in North American and European families. In addition, loss of heterozygosity (LOH) for genetic markers in this region has been detected in sporadic BCCs, indicating that the NBCCS gene is probably a tumor-suppressor gene. In this study we have determined that the NBCCS gene is also linked to this region in Australasian pedigrees and that there is no significant evidence of heterogeneity. We have defined the localization of the gene by multipoint and haplotype analysis of 15 families, using four microsatellite markers. LOH at these loci was detected in 50% of sporadic BCCs, a rate that is significantly higher than that in other skin lesions used as controls.
+7	27	basal cell carcinoma	HP:0002671
+45	70	basal cell nevus syndrome	HP:0002671
+96	102	cancer	HP:0002664
+153	174	basal cell carcinomas	HP:0002671
+194	215	developmental defects	HP:0001263
+465	470	tumor	HP:0002664
+901	913	skin lesions	HP:0011355
+
+8808282
+Branchio-oto-renal (BOR) syndrome is an autosomal dominant disorder characterized by branchial abnormality, hearing loss, and renal anomalies. Recently, the disease gene has been localized to chromosome 8q. Here, we report genetic studies that further refine the disease gene region to a smaller interval and identify several YACs from the critical region. We studied two large, clinically well-characterized BOR families with a set of 13 polymorphic markers spanning the D8S165-D8S275 interval from the chromosome 8q region. Based on multipoint analysis, the highest likelihood for the location of the BOR gene is between markers D8S543 and D8S530, a distance of about 2 cM. YACs that map in the BOR critical region have been identified and characterized by fluorescence in situ hybridization and pulsed-field gel electrophoresis. A YAC contig, based on the STS content map, that covers a minimum of 4 Mb of human DNA in the critical region of BOR is assembled. This lays the groundwork for the construction of a transcriptional map of this region and the eventual identification of genes involved in BOR syndrome.
+85	106	branchial abnormality	HP:0009794
+108	120	hearing loss	HP:0000365
+126	141	renal anomalies	HP:0000077
+
+9236523
+To evaluate patients with multiple endocrine neoplasia type 1 (MEN 1) for cutaneous manifestations.  Survey during a 3-year period.  The National Institutes of Health, a tertiary referral research hospital in Bethesda Md.  A consecutive sample of 32 individuals with previously diagnosed MEN1 who were not preselected for the presence of skin lesions were examined for cutaneous abnormalities. None of the patients or family members were diagnosed as having tuberous sclerosis.  Lesions were identified by clinical appearance, photographed, and confirmed histologically.  To determine the frequency of skin lesions in patients with MEN1.  Multiple facial angiofibromas were observed in 28 (88%) of the patients with MEN1, with 16 patients (50%) having 5 or more. Angiofibromas were clinically and histologically identical to those in individuals with tuberous sclerosis. Collagenomas were observed in 23 patients (72%). Also observed were cafe au lait macules in 12 patients (38%), lipomas in 11 patients (34%), confetti-like hypopigmented macules in 2 patients (6%), and multiple gingival papules in 2 patients (6%).  Multiple angiofibromas, collagenomas, lipomas, confetti-like hypopigmented macules and multiple gingival papules are cutaneous manifestations of MEN1 and should be looked for in both family members of patients with MEN1 and individuals with hyperparathyroidism of other MEN1-associated tumors. Multiple angiofibromas can no longer be considered pathognomonic for tuberous sclerosis. The observation of angiofibromas in individuals without tuberous sclerosis necessitates further biochemical testing for MEN1.
+35	54	endocrine neoplasia	HP:0100568
+45	54	neoplasia	HP:0002664
+74	98	cutaneous manifestations	HP:0000951
+338	350	skin lesions	HP:0011355
+369	392	cutaneous abnormalities	HP:0000951
+602	614	skin lesions	HP:0011355
+648	668	facial angiofibromas	HP:0009720
+655	668	angiofibromas	HP:0010615
+763	776	Angiofibromas	HP:0010615
+871	883	Collagenomas	HP:0000951
+939	959	cafe au lait macules	HP:0000957
+982	989	lipomas	HP:0001012
+1012	1047	confetti-like hypopigmented macules	HP:0007449
+1081	1097	gingival papules	HP:0000168
+1128	1141	angiofibromas	HP:0010615
+1143	1155	collagenomas	HP:0000951
+1157	1164	lipomas	HP:0001012
+1166	1201	confetti-like hypopigmented macules	HP:0007449
+1215	1231	gingival papules	HP:0000168
+1236	1260	cutaneous manifestations	HP:0000951
+1360	1379	hyperparathyroidism	HP:0000843
+1405	1411	tumors	HP:0002664
+1422	1435	angiofibromas	HP:0010615
+1521	1534	angiofibromas	HP:0010615
+

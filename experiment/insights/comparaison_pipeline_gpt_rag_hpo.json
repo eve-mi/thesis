@@ -1,0 +1,1432 @@
+[
+  {
+    "doc_id": "1003450",
+    "gold_truth": "HP:0001798: Anonychia",
+    "text": "aplastic or hypoplastic nails",
+    "predicted_pipeline": "HP:0001798: Anonychia",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hypoplastic nail",
+      "candidate_id": "HP:0001792: Small nail",
+      "rank": 1,
+      "relationship": "sibling"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001798: Anonychia",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "aplastic or hypoplastic nails",
+      "candidate_id": "HP:0008386: Aplasia/Hypoplasia of the nails",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "1003450",
+    "gold_truth": "HP:0009702: Carpal synostosis",
+    "text": "synostosis of some carpal and tarsal bones",
+    "predicted_pipeline": "HP:0009702: Carpal synostosis",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "synostosis of some carpal and tarsal bones",
+      "candidate_id": "HP:0100266: Synostosis of carpals/tarsals",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009702: Carpal synostosis",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "synostosis of some carpal and tarsal bones",
+      "candidate_id": "HP:0100266: Synostosis of carpals/tarsals",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "10051003",
+    "gold_truth": "HP:0001177: Preaxial hand polydactyly",
+    "text": "preaxial polydactyly",
+    "predicted_pipeline": "HP:0001177: Preaxial hand polydactyly",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "pre axial polydactyly",
+      "candidate_id": "HP:0100258: Preaxial polydactyly",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001177: Preaxial hand polydactyly",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "preaxial polydactyly",
+      "candidate_id": "HP:0100258: Preaxial polydactyly",
+      "rank": 2,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "10066029",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "intracranial calcifications",
+    "predicted_pipeline": "HP:0002514: Cerebral calcification",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "intracranial calcification",
+      "candidate_id": "HP:0430048: Intracranial calcification",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002514: Cerebral calcification",
+    "with_rank_RAG-HPO_GPT": 4,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "calcification of falx cerebri",
+      "candidate_id": "HP:0005462: Calcification of falx cerebri",
+      "rank": 3,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "10631923",
+    "gold_truth": "HP:0000969: Edema",
+    "text": "edema",
+    "predicted_pipeline": "HP:0000969: Edema",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hereditary angioneurotic edema",
+      "candidate_id": "HP:0100665: Angioedema",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0100665: Angioedema",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0100665: Angioedema",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "10767004",
+    "gold_truth": "HP:0000356: Abnormality of the outer ear",
+    "text": "infra/supra-auricular region",
+    "predicted_pipeline": "HP:0000356: Abnormality of the outer ear",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "malformed pinna",
+      "candidate_id": "HP:0000377: Abnormal pinna morphology",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000356: Abnormality of the outer ear",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "malformed pinna",
+      "candidate_id": "HP:0000377: Abnormal pinna morphology",
+      "rank": 12,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "10767004",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "fistulas",
+    "predicted_pipeline": "HP:0009794: Branchial anomaly",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "branchio-oto-renal (bor) syndrome",
+      "candidate_id": "HP:0009796: Branchial cyst",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009795: Branchial fistula",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0009795: Branchial fistula",
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "10771486",
+    "gold_truth": "HP:0009593: Peripheral schwannoma",
+    "text": "Schwannomas in the skin",
+    "predicted_pipeline": "HP:0009593: Peripheral schwannoma",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "Schwannomas in the skin",
+      "candidate_id": "HP:0100008: Schwannoma",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009593: Peripheral schwannoma",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "schwannomas",
+      "candidate_id": "HP:0100008: Schwannoma",
+      "rank": 13,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "11078565",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "inappropriate happy demeanor",
+    "predicted_pipeline": "HP:0100024: Conspicuously happy disposition",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "inappropriate happy demeanor",
+      "candidate_id": "HP:0040082: Happy demeanor",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0040082: Happy demeanor",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0040082: Happy demeanor",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "11078565",
+    "gold_truth": "HP:0000365: Hearing impairment",
+    "text": "hearing loss",
+    "predicted_pipeline": "HP:0012714: Severe hearing impairment",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0012714: Severe hearing impairment",
+    "predicted_RAG-HPO_GPT": "HP:0012714: Severe hearing impairment",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0012714: Severe hearing impairment",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "11152153",
+    "gold_truth": "HP:0001177: Preaxial hand polydactyly",
+    "text": "preaxial polydactyly",
+    "predicted_pipeline": "HP:0001177: Preaxial hand polydactyly",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "preaxial polydatyly",
+      "candidate_id": "HP:0100258: Preaxial polydactyly",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001177: Preaxial hand polydactyly",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "preaxial polydatyly",
+      "candidate_id": "HP:0100258: Preaxial polydactyly",
+      "rank": 18,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "11455389",
+    "gold_truth": "HP:0005819: Short middle phalanx of finger",
+    "text": "shortening or missing of the middle phalanges",
+    "predicted_pipeline": "HP:0005819: Short middle phalanx of finger",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "missing of the middle phalanges",
+      "candidate_id": "HP:0010239: Aplasia of the middle phalanx of the hand",
+      "rank": 1,
+      "relationship": "sibling"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0005819: Short middle phalanx of finger",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "shortening or missing of the middle phalanges",
+      "candidate_id": "HP:0009843: Aplasia/Hypoplasia of the middle phalanges of the hand",
+      "rank": 23,
+      "relationship": "child"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "11748306",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "hypopigmentation",
+    "predicted_pipeline": "HP:0007513: Generalized hypopigmentation",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hypopigmentation",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0007513: Generalized hypopigmentation",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "hypopigmentation",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 25,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "12219090",
+    "gold_truth": "HP:0000175: Cleft palate",
+    "text": "cleft lip and palate",
+    "predicted_pipeline": "HP:0000175: Cleft palate",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "palate",
+      "candidate_id": "HP:0000218: High palate",
+      "rank": 1,
+      "relationship": "sibling"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000175: Cleft palate",
+    "with_rank_RAG-HPO_GPT": 4,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "cleft lip or palate",
+      "candidate_id": "HP:0000202: Orofacial cleft",
+      "rank": 30,
+      "relationship": "child"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "12357473",
+    "gold_truth": "HP:0001156: Brachydactyly",
+    "text": "brachydactyly",
+    "predicted_pipeline": "HP:0001156: Brachydactyly",
+    "with_rank": 10,
+    "top_candidate_pipeline": {
+      "phenotype_text": "autosomal dominant brachydactyly type C",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001156: Brachydactyly",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "autosomal dominant brachydactyly type C (BDC)",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 32,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "1248162",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial arch syndromes",
+    "predicted_pipeline": "HP:0009795: Branchial fistula",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0009795: Branchial fistula",
+    "predicted_RAG-HPO_GPT": "HP:0009794: Branchial anomaly",
+    "with_rank_RAG-HPO_GPT": 5,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "branchial cleft fistulas",
+      "candidate_id": "HP:0009795: Branchial fistula",
+      "rank": 36,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "1347096",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "intracranial calcification",
+    "predicted_pipeline": "HP:0002514: Cerebral calcification",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "intracranial calcification",
+      "candidate_id": "HP:0430048: Intracranial calcification",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002514: Cerebral calcification",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "intracranial calcification",
+      "candidate_id": "HP:0430048: Intracranial calcification",
+      "rank": 41,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "1357962",
+    "gold_truth": "HP:0008935: Generalized neonatal hypotonia",
+    "text": "hypotonic at birth",
+    "predicted_pipeline": "HP:0008935: Generalized neonatal hypotonia",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hypotonic at birth",
+      "candidate_id": "HP:0001319: Neonatal hypotonia",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0008935: Generalized neonatal hypotonia",
+    "with_rank_RAG-HPO_GPT": 9,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "child was hypotonic at birth",
+      "candidate_id": "HP:0001319: Neonatal hypotonia",
+      "rank": 43,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0001144: Orbital cyst",
+    "text": "fundus lesion",
+    "predicted_pipeline": "HP:0001144: Orbital cyst",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "left orbital dermoid cyst",
+      "candidate_id": "HP:0030668: Periorbital dermoid cyst",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001144: Orbital cyst",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "orbital dermoid cyst",
+      "candidate_id": "HP:0030668: Periorbital dermoid cyst",
+      "rank": 60,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial cleft",
+    "predicted_pipeline": "HP:0009794: Branchial anomaly",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "branchial cleft fistula from the right side of neck at age 4 years",
+      "candidate_id": "HP:0009795: Branchial fistula",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009795: Branchial fistula",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0009795: Branchial fistula",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0000525: Abnormality iris morphology",
+    "text": "iris pigment epithelial cyst",
+    "predicted_pipeline": "HP:0011523: Iris cyst",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0011523: Iris cyst",
+    "predicted_RAG-HPO_GPT": "HP:0011523: Iris cyst",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0011523: Iris cyst",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0009594: Retinal hamartoma",
+    "text": "hamartoma of the retina",
+    "predicted_pipeline": "HP:0009594: Retinal hamartoma",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "combined hamartoma of the retina",
+      "candidate_id": "HP:0030510: Combined hamartoma of the retinal pigment epithelium and retina",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009594: Retinal hamartoma",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "combined hamartoma of the retina and retinal pigment epithelium",
+      "candidate_id": "HP:0030510: Combined hamartoma of the retinal pigment epithelium and retina",
+      "rank": 60,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "1583664",
+    "gold_truth": "HP:0001156: Brachydactyly",
+    "text": "brachydactyly",
+    "predicted_pipeline": "HP:0001156: Brachydactyly",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "brachydactyl y type C",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001156: Brachydactyly",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "brachydactyly type C",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 61,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "16957682",
+    "gold_truth": "HP:0001156: Brachydactyly",
+    "text": "brachydactyly",
+    "predicted_pipeline": "HP:0001156: Brachydactyly",
+    "with_rank": 5,
+    "top_candidate_pipeline": {
+      "phenotype_text": "brachydactyly type c",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001156: Brachydactyly",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "brachydactyly type C (BDC)",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 67,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "16957682",
+    "gold_truth": "HP:0006152: Proximal finger symphalangism",
+    "text": "SYM1",
+    "predicted_pipeline": "HP:0006152: Proximal symphalangism of hands",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "proximal symphalangism",
+      "candidate_id": "HP:0100264: Proximal symphalangism",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0006152: Proximal finger symphalangism",
+    "with_rank_RAG-HPO_GPT": 4,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "proximal symphalangism (SYM1)",
+      "candidate_id": "HP:0100264: Proximal symphalangism",
+      "rank": 67,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "17431915",
+    "gold_truth": "HP:0001177: Preaxial hand polydactyly",
+    "text": "preaxial polydactyly",
+    "predicted_pipeline": "HP:0001177: Preaxial hand polydactyly",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "preaxial polydactyly",
+      "candidate_id": "HP:0100258: Preaxial polydactyly",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001177: Preaxial hand polydactyly",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "right preaxial polydactyly",
+      "candidate_id": "HP:0100258: Preaxial polydactyly",
+      "rank": 70,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "18283415",
+    "gold_truth": "HP:0001156: Brachydactyly",
+    "text": "brachydactyly",
+    "predicted_pipeline": "HP:0001156: Brachydactyly",
+    "with_rank": 5,
+    "top_candidate_pipeline": {
+      "phenotype_text": "brachydactyly type c",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001156: Brachydactyly",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "brachydactyly type C (BDC)",
+      "candidate_id": "HP:0009373: Type C brachydactyly",
+      "rank": 74,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "18423521",
+    "gold_truth": "HP:0000377: Abnormal pinna morphology",
+    "text": "infra- and/or supra-auricular defects",
+    "predicted_pipeline": "HP:0000377: Abnormal pinna morphology",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "malforme pinnae",
+      "candidate_id": "HP:0000356: Abnormality of the outer ear",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000377: Abnormal pinna morphology",
+    "with_rank_RAG-HPO_GPT": 10,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "characteristic facial appearance (malformed pinnae, oral clefts)",
+      "candidate_id": "HP:0000356: Abnormality of the outer ear",
+      "rank": 76,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "18478600",
+    "gold_truth": "HP:0000196: Lower lip pit",
+    "text": "lip pits",
+    "predicted_pipeline": "HP:0000196: Lower lip pit",
+    "with_rank": 8,
+    "top_candidate_pipeline": {
+      "phenotype_text": "paramedian lip pit",
+      "candidate_id": "HP:0100269: Paramedian lip pit",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000196: Lower lip pit",
+    "with_rank_RAG-HPO_GPT": 10,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "paramedian lip pits",
+      "candidate_id": "HP:0100269: Paramedian lip pit",
+      "rank": 77,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "18478600",
+    "gold_truth": "HP:0000175: Cleft palate",
+    "text": "cleft lip and palate",
+    "predicted_pipeline": "HP:0000175: Cleft palate",
+    "with_rank": 5,
+    "top_candidate_pipeline": {
+      "phenotype_text": "orofacial clefting",
+      "candidate_id": "HP:0000202: Orofacial cleft",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000175: Cleft palate",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "orofacial clefting",
+      "candidate_id": "HP:0000202: Orofacial cleft",
+      "rank": 77,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "18629882",
+    "gold_truth": "HP:0005819: Short middle phalanx of finger",
+    "text": "shortening of the middle phalanges in all digits",
+    "predicted_pipeline": "HP:0005819: Short middle phalanx of finger",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "uniform shortening of the middle phalanges",
+      "candidate_id": "HP:0009843: Aplasia/Hypoplasia of the middle phalanges of the hand",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0005819: Short middle phalanx of finger",
+    "with_rank_RAG-HPO_GPT": 8,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "uniform shortening of the middle phalanges in all digits",
+      "candidate_id": "HP:0006110: Shortening of all middle phalanges of the fingers",
+      "rank": 78,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "1931625",
+    "gold_truth": "HP:0100006: Neoplasm of the central nervous system",
+    "text": "brain tumour",
+    "predicted_pipeline": "HP:0100006: Neoplasm of the central nervous system",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "childhood brain tumour",
+      "candidate_id": "HP:0030692: Brain neoplasm",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0100006: Neoplasm of the central nervous system",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "brain tumour",
+      "candidate_id": "HP:0030692: Brain neoplasm",
+      "rank": 81,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "19476995",
+    "gold_truth": "HP:0000951: Abnormality of the skin",
+    "text": "cutaneous lesions",
+    "predicted_pipeline": "HP:0000951: Abnormality of the skin",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "cutaneous lesion",
+      "candidate_id": "HP:0008069: Neoplasm of the skin",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0008069: Neoplasm of the skin",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0008069: Neoplasm of the skin",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "1951448",
+    "gold_truth": "HP:0000365: Hearing impairment",
+    "text": "hearing loss",
+    "predicted_pipeline": "HP:0012712: Mild hearing impairment",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0012712: Mild hearing impairment",
+    "predicted_RAG-HPO_GPT": "HP:0000365: Hearing impairment",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "hearing loss at 8000 Hz",
+      "candidate_id": "HP:0012714: Severe hearing impairment",
+      "rank": 83,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "2012134",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "severe to profound global developmental delay",
+    "predicted_pipeline": "HP:0001263: Global developmental delay",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "severe to profound global developmental delay",
+      "candidate_id": "HP:0011344: Severe global developmental delay",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001263: Global developmental delay",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "severe to profound global developmental delay",
+      "candidate_id": "HP:0011344: Severe global developmental delay",
+      "rank": 86,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "2012134",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "hypopigmentation",
+    "predicted_pipeline": "HP:0007513: Generalized hypopigmentation",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hypopigmentation",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0007513: Generalized hypopigmentation",
+    "with_rank_RAG-HPO_GPT": 5,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "hypopigmented",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 86,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "2282716",
+    "gold_truth": "HP:0002858: Meningioma",
+    "text": "meningiomas",
+    "predicted_pipeline": "HP:0002858: Meningioma",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "multiple meningioma",
+      "candidate_id": "HP:0033714: Multiple meningiomas",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002858: Meningioma",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "multiple meningiomas",
+      "candidate_id": "HP:0033714: Multiple meningiomas",
+      "rank": 90,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "263442",
+    "gold_truth": "HP:0000110: Renal dysplasia",
+    "text": "renal dysplasia",
+    "predicted_pipeline": "HP:0000110: Renal dysplasia",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "branchio-oto-renal dysplasia",
+      "candidate_id": "HP:0012582: Bilateral renal dysplasia",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000110: Renal dysplasia",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "severe renal malformation",
+      "candidate_id": "HP:0012210: Abnormal renal morphology",
+      "rank": 93,
+      "relationship": "child"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "2888021",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "acoustic neuromas",
+    "predicted_pipeline": "HP:0009588: Vestibular schwannoma",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "bilateral acoustic neuroma",
+      "candidate_id": "HP:0009589: Bilateral vestibular schwannoma",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009588: Vestibular schwannoma",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "bilateral acoustic neuromas",
+      "candidate_id": "HP:0009589: Bilateral vestibular schwannoma",
+      "rank": 96,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "292745",
+    "gold_truth": "HP:0000277: Abnormal mandible morphology",
+    "text": "jaw lesions",
+    "predicted_pipeline": "HP:0000277: Abnormal mandible morphology",
+    "with_rank": 5,
+    "top_candidate_pipeline": {
+      "phenotype_text": "jaw lesion",
+      "candidate_id": "HP:0030792: Jaw neoplasm",
+      "rank": 1,
+      "relationship": "sibling"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000277: Abnormal mandible morphology",
+    "with_rank_RAG-HPO_GPT": 5,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "typical jaw lesions",
+      "candidate_id": "HP:0030791: Abnormal jaw morphology",
+      "rank": 99,
+      "relationship": "child"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "3134615",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "Intracranial nontumoral calcifications",
+    "predicted_pipeline": "HP:0002514: Cerebral calcification",
+    "with_rank": 6,
+    "top_candidate_pipeline": {
+      "phenotype_text": "intracranial nontumoral calcification",
+      "candidate_id": "HP:0006906: Congenital intracerebral calcification",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002514: Cerebral calcification",
+    "with_rank_RAG-HPO_GPT": 5,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "Intracranial nontumoral calcifications",
+      "candidate_id": "HP:0007238: Nonarteriosclerotic cerebral calcification",
+      "rank": 105,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "3180506",
+    "gold_truth": "HP:0002034: Abnormal rectum morphology",
+    "text": "Anorectal malformations",
+    "predicted_pipeline": "HP:0002034: Abnormal rectum morphology",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "anorectal malformation",
+      "candidate_id": "HP:0012732: Anorectal anomaly",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002034: Abnormal rectum morphology",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "Anorectal malformations",
+      "candidate_id": "HP:0012732: Anorectal anomaly",
+      "rank": 106,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "3740720",
+    "gold_truth": "HP:0000110: Renal dysplasia",
+    "text": "renal dysplasia",
+    "predicted_pipeline": "HP:0000110: Renal dysplasia",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "branchio-oto-renal dysplasia",
+      "candidate_id": "HP:0012582: Bilateral renal dysplasia",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000110: Renal dysplasia",
+    "with_rank_RAG-HPO_GPT": 10,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "renal malformations",
+      "candidate_id": "HP:0012210: Abnormal renal morphology",
+      "rank": 116,
+      "relationship": "child"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "3740720",
+    "gold_truth": "HP:0000077: Abnormality of the kidney",
+    "text": "lateral cervical sinuses",
+    "predicted_pipeline": "HP:0000077: Abnormality of the kidney",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "renal malformation",
+      "candidate_id": "HP:0012210: Abnormal renal morphology",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000077: Abnormality of the kidney",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "renal malformations",
+      "candidate_id": "HP:0012210: Abnormal renal morphology",
+      "rank": 116,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "4006277",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial cleft",
+    "predicted_pipeline": "HP:0009794: Branchial anomaly",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "branchio-oto-renal",
+      "candidate_id": "HP:0100272: Branchial sinus",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009794: Branchial anomaly",
+    "with_rank_RAG-HPO_GPT": 4,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "branchial cleft cysts",
+      "candidate_id": "HP:0009796: Branchial cyst",
+      "rank": 118,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "6261046",
+    "gold_truth": "HP:0001627: Abnormal heart morphology",
+    "text": "enlarged cardiac silhouette",
+    "predicted_pipeline": "HP:6000145: Boot-shaped cardiac silhouette",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:6000145: Boot-shaped cardiac silhouette",
+    "predicted_RAG-HPO_GPT": "HP:0001627: Abnormal heart morphology",
+    "with_rank_RAG-HPO_GPT": 9,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "enlarged cardiac silhouette",
+      "candidate_id": "HP:0001640: Cardiomegaly",
+      "rank": 120,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "6741990",
+    "gold_truth": "HP:0030680: Abnormal cardiovascular system morphology",
+    "text": "congenital heart defect",
+    "predicted_pipeline": "HP:0030680: Abnormal cardiovascular system morphology",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "congenital heart defect",
+      "candidate_id": "HP:0001627: Abnormal heart morphology",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0030680: Abnormal cardiovascular system morphology",
+    "with_rank_RAG-HPO_GPT": 7,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "congenital heart defect",
+      "candidate_id": "HP:0001627: Abnormal heart morphology",
+      "rank": 123,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "6882181",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "intracranial calcification",
+    "predicted_pipeline": "HP:0002514: Cerebral calcification",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "intracranial calcification",
+      "candidate_id": "HP:0430048: Intracranial calcification",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002514: Cerebral calcification",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "intracranial calcification",
+      "candidate_id": "HP:0430048: Intracranial calcification",
+      "rank": 127,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "6928117",
+    "gold_truth": "HP:0000159: Abnormal lip morphology",
+    "text": "involvement of the palate, gums, and lips",
+    "predicted_pipeline": "HP:0100267: Lip pit",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0100267: Lip pit",
+    "predicted_RAG-HPO_GPT": "HP:0012471: Thick vermilion border",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0012471: Thick vermilion border",
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "6964893",
+    "gold_truth": "HP:0000359: Abnormality of the inner ear",
+    "text": "defects of the outer, middle and inner ear",
+    "predicted_pipeline": "HP:0000359: Abnormality of the inner ear",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "structural defects of the outer, middle and inner ear",
+      "candidate_id": "HP:0011390: Abnormal inner ear morphology",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000359: Abnormality of the inner ear",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "structural defects of the inner ear",
+      "candidate_id": "HP:0011390: Abnormal inner ear morphology",
+      "rank": 129,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "6964893",
+    "gold_truth": "HP:0000110: Renal dysplasia",
+    "text": "renal dysplasia",
+    "predicted_pipeline": "HP:0000110: Renal dysplasia",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "branchio-oto-renal dysplasia",
+      "candidate_id": "HP:0012582: Bilateral renal dysplasia",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000110: Renal dysplasia",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "BOR (branchio-oto-renal dysplasia) syndrome",
+      "candidate_id": "HP:0012582: Bilateral renal dysplasia",
+      "rank": 129,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "6973119",
+    "gold_truth": "HP:0000405: Conductive hearing impairment",
+    "text": "conduction",
+    "predicted_pipeline": "HP:0000405: Conductive hearing impairment",
+    "with_rank": 5,
+    "top_candidate_pipeline": {
+      "phenotype_text": "mixed hearing loss",
+      "candidate_id": "HP:0000410: Mixed hearing impairment",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000405: Conductive hearing impairment",
+    "with_rank_RAG-HPO_GPT": 9,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "hearing loss",
+      "candidate_id": "HP:0000365: Hearing impairment",
+      "rank": 130,
+      "relationship": "child"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "7039311",
+    "gold_truth": "HP:0001193: Ulnar deviation of the hand or of fingers of the hand",
+    "text": "ulnar deviation",
+    "predicted_pipeline": "HP:0001193: Ulnar deviation of the hand or of fingers of the hand",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "ulnar deviation",
+      "candidate_id": "HP:0009487: Ulnar deviation of the hand",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001193: Ulnar deviation of the hand or of fingers of the hand",
+    "with_rank_RAG-HPO_GPT": 4,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "ulnar deviation",
+      "candidate_id": "HP:0009487: Ulnar deviation of the hand",
+      "rank": 131,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "7091188",
+    "gold_truth": "HP:0001272: Cerebellar atrophy",
+    "text": "unilateral cerebellar atrophy",
+    "predicted_pipeline": "HP:0001272: Cerebellar atrophy",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "unilateral cerebellar atrophy",
+      "candidate_id": "HP:0100275: Diffuse cerebellar atrophy",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001317: Abnormal cerebellum morphology",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0001317: Abnormal cerebellum morphology",
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "7200726",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "bilateral branchial sinuses",
+    "predicted_pipeline": "HP:0009794: Branchial anomaly",
+    "with_rank": 9,
+    "top_candidate_pipeline": {
+      "phenotype_text": "son with bilateral branchial sinuses",
+      "candidate_id": "HP:0100272: Branchial sinus",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009794: Branchial anomaly",
+    "with_rank_RAG-HPO_GPT": 7,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "bilateral branchial sinuses",
+      "candidate_id": "HP:0100272: Branchial sinus",
+      "rank": 134,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "7246489",
+    "gold_truth": "HP:0000248: Brachycephaly",
+    "text": "microbrachycephaly",
+    "predicted_pipeline": "HP:0004487: Acrobrachycephaly",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0004487: Acrobrachycephaly",
+    "predicted_RAG-HPO_GPT": "HP:0004487: Acrobrachycephaly",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0004487: Acrobrachycephaly",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "7446562",
+    "gold_truth": "HP:0005684: Distal arthrogryposis",
+    "text": "\"distal\" arthrogryposis",
+    "predicted_pipeline": "HP:0005684: Distal arthrogryposis",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "arthrogryposis",
+      "candidate_id": "HP:0002804: Arthrogryposis multiplex congenita",
+      "rank": 1,
+      "relationship": "sibling"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002803: Congenital contracture",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0002803: Congenital contracture",
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "7450780",
+    "gold_truth": "HP:0002133: Status epilepticus",
+    "text": "epileptic seizures",
+    "predicted_pipeline": "HP:0001250: Seizure",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0001250: Seizure",
+    "predicted_RAG-HPO_GPT": "HP:0001250: Seizure",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0001250: Seizure",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "7747758",
+    "gold_truth": "HP:0004375: Neoplasm of the nervous system",
+    "text": "CNS tumors",
+    "predicted_pipeline": "HP:0004375: Neoplasm of the nervous system",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "other CNS tumors",
+      "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0004375: Neoplasm of the nervous system",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "other CNS tumors",
+      "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+      "rank": 143,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "7747785",
+    "gold_truth": "HP:0030680: Abnormal cardiovascular system morphology",
+    "text": "congenital heart and central nervous system defects",
+    "predicted_pipeline": "HP:0030680: Abnormal cardiovascular system morphology",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "congenital heart",
+      "candidate_id": "HP:0001627: Abnormal heart morphology",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0030680: Abnormal cardiovascular system morphology",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "congenital heart defects",
+      "candidate_id": "HP:0001627: Abnormal heart morphology",
+      "rank": 144,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "8494033",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "melanin pigment synthesis in the hair, skin, and eyes",
+    "predicted_pipeline": "HP:0007513: Generalized hypopigmentation",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hypopigmentation",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0007513: Generalized hypopigmentation",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "Hypopigmentation characterized by light skin",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 161,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "9182785",
+    "gold_truth": "HP:0001249: Intellectual disability",
+    "text": "intellectual disability",
+    "predicted_pipeline": "HP:0001249: Intellectual disability",
+    "with_rank": 4,
+    "top_candidate_pipeline": {
+      "phenotype_text": "severe intellectual disability",
+      "candidate_id": "HP:0010864: Intellectual disability, severe",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0001249: Intellectual disability",
+    "with_rank_RAG-HPO_GPT": 3,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "severe intellectual disability",
+      "candidate_id": "HP:0010864: Severe intellectual disability",
+      "rank": 183,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "9225971",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "neurinomas",
+    "predicted_pipeline": "HP:0009588: Vestibular schwannoma",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "bilateral vestibular schwannomas",
+      "candidate_id": "HP:0009589: Bilateral vestibular schwannoma",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009588: Vestibular schwannoma",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "bilateral vestibular schwannomas",
+      "candidate_id": "HP:0009589: Bilateral vestibular schwannoma",
+      "rank": 185,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "955942",
+    "gold_truth": "HP:0000248: Brachycephaly",
+    "text": "microbrachycephaly",
+    "predicted_pipeline": "HP:0004487: Acrobrachycephaly",
+    "with_rank": 1,
+    "top_candidate_pipeline": "HP:0004487: Acrobrachycephaly",
+    "predicted_RAG-HPO_GPT": "HP:0004487: Acrobrachycephaly",
+    "with_rank_RAG-HPO_GPT": 1,
+    "top_candidate_RAG-HPO_GPT": "HP:0004487: Acrobrachycephaly",
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "12900905",
+    "gold_truth": "HP:0002573: Hematochezia",
+    "text": "blood stools",
+    "predicted_pipeline": "HP:0002573: Hematochezia",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "blood stools for 6 months",
+      "candidate_id": "HP:0025085: Bloody diarrhea",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0002573: Hematochezia",
+    "with_rank_RAG-HPO_GPT": 5,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "blood stools",
+      "candidate_id": "HP:0025085: Bloody diarrhea",
+      "rank": 203,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "14699618",
+    "gold_truth": "HP:0003298: Spina bifida occulta",
+    "text": "occult spina bifida",
+    "predicted_pipeline": "HP:0003298: Spina bifida occulta",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "occult spina bifida at L5-S4",
+      "candidate_id": "HP:0004601: Spina bifida occulta at L5",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0003298: Spina bifida occulta",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "occult spina bifida at L5-S4",
+      "candidate_id": "HP:0004601: Spina bifida occulta at L5",
+      "rank": 204,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "18177466",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial, otic and renal anomalies",
+    "predicted_pipeline": "HP:0009794: Branchial anomaly",
+    "with_rank": 2,
+    "top_candidate_pipeline": {
+      "phenotype_text": "branchio-oto-renal",
+      "candidate_id": "HP:0100272: Branchial sinus",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009794: Branchial anomaly",
+    "with_rank_RAG-HPO_GPT": 5,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "branchial fistulae",
+      "candidate_id": "HP:0009795: Branchial fistula",
+      "rank": 207,
+      "relationship": "parent"
+    },
+    "matching first rank?": false
+  },
+  {
+    "doc_id": "6829601",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "hemangiomatous branchial clefts",
+    "predicted_pipeline": "HP:0009794: Branchial anomaly",
+    "with_rank": 5,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hemangi omatous branchial clefts",
+      "candidate_id": "HP:0009795: Branchial fistula",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0009794: Branchial anomaly",
+    "with_rank_RAG-HPO_GPT": 4,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "hemangiomatous branchial clefts",
+      "candidate_id": "HP:0009795: Branchial fistula",
+      "rank": 212,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "6829601",
+    "gold_truth": "HP:0000568: Microphthalmia",
+    "text": "microphthalmia",
+    "predicted_pipeline": "HP:0000568: Microphthalmia",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "unilateral microphthalmia",
+      "candidate_id": "HP:0011480: Unilateral microphthalmos",
+      "rank": 1,
+      "relationship": "parent"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0000568: Microphthalmia",
+    "with_rank_RAG-HPO_GPT": 2,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "unilateral microphthalmia",
+      "candidate_id": "HP:0011480: Unilateral microphthalmos",
+      "rank": 212,
+      "relationship": "parent"
+    },
+    "matching first rank?": true
+  },
+  {
+    "doc_id": "7802001",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "hypopigmentation",
+    "predicted_pipeline": "HP:0007513: Generalized hypopigmentation",
+    "with_rank": 3,
+    "top_candidate_pipeline": {
+      "phenotype_text": "hypopigmentation of skin",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 1,
+      "relationship": "child"
+    },
+    "predicted_RAG-HPO_GPT": "HP:0007513: Generalized hypopigmentation",
+    "with_rank_RAG-HPO_GPT": 5,
+    "top_candidate_RAG-HPO_GPT": {
+      "phenotype_text": "hypopigmentation of skin or hair",
+      "candidate_id": "HP:0001010: Hypopigmentation of the skin",
+      "rank": 216,
+      "relationship": "child"
+    },
+    "matching first rank?": true
+  }
+]

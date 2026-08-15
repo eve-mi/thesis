@@ -1,0 +1,1562 @@
+[
+  {
+    "doc_id": "1003450",
+    "gold_truth": "HP:0009881: Aplasia of distal finger phalanx",
+    "text": "absence of some middle or distal phalanges",
+    "predicted": "HP:0009835: Aplasia/Hypoplasia of the distal phalanges of the hand",
+    "extracted_text": "absence of some middle or distal phalanges",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1003450",
+    "gold_truth": "HP:0009702: Carpal synostosis",
+    "text": "synostosis of some carpal and tarsal bones",
+    "predicted": "HP:0100266: Synostosis of carpals/tarsals",
+    "extracted_text": "synostosis of some carpal and tarsal bones",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10051003",
+    "gold_truth": "HP:0001177: Preaxial hand polydactyly",
+    "text": "preaxial polydactyly",
+    "predicted": "HP:0100258: ",
+    "extracted_text": "preaxial polydactyly",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10066029",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "intracranial calcifications",
+    "predicted": "HP:0005462: ",
+    "extracted_text": "calcification of falx cerebri",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10593995",
+    "gold_truth": "HP:0000175: Cleft palate",
+    "text": "cleft palate",
+    "predicted": "HP:0000175: ",
+    "extracted_text": "cleft palate",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10631923",
+    "gold_truth": "HP:0002574: Episodic abdominal pain",
+    "text": "episodes of abdominal pain",
+    "predicted": "HP:0002027: ",
+    "extracted_text": "abdominal pain",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10631923",
+    "gold_truth": "HP:0009944: Partial duplication of thumb phalanx",
+    "text": "bifid right thumb",
+    "predicted": "HP:0009614: Bifid proximal phalanx of the thumb",
+    "extracted_text": "bifid right thumb",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10767004",
+    "gold_truth": "HP:0000153: Abnormality of the mouth",
+    "text": "oral anomalies",
+    "predicted": "HP:0031816: Abnormal oral morphology",
+    "extracted_text": "oral anomaly",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10767004",
+    "gold_truth": "HP:0009795: Branchial fistula",
+    "text": "cervical fistulas",
+    "predicted": "HP:0009794: Branchial anomaly",
+    "extracted_text": "branchio-oto-renal (bor) syndrome",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10767004",
+    "gold_truth": "HP:0009796: Branchial cyst",
+    "text": "cervical cysts",
+    "predicted": "HP:0009794: Branchial anomaly",
+    "extracted_text": "branchio-oto-renal (bor) syndrome",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10771486",
+    "gold_truth": "HP:0008069: Neoplasm of the skin",
+    "text": "skin tumors",
+    "predicted": "HP:0009593: Peripheral schwannoma",
+    "extracted_text": "schwannomas in the skin",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "10771486",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "vestibular schwannomas",
+    "predicted": "HP:0009588: ",
+    "extracted_text": "vestibular schwannomas",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11078565",
+    "gold_truth": "HP:0002167: Abnormal speech pattern",
+    "text": "speech impairment",
+    "predicted": "HP:0002465: Poor speech",
+    "extracted_text": "severe speech impairment",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11078565",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "inappropriate happy demeanor",
+    "predicted": "HP:0040082: Happy demeanor",
+    "extracted_text": "inappropriate happy demeanor",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11152153",
+    "gold_truth": "HP:0001177: Preaxial hand polydactyly",
+    "text": "preaxial polydactyly",
+    "predicted": "HP:0100258: ",
+    "extracted_text": "preaxial polydactyly",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11343340",
+    "gold_truth": "HP:0000729: Autistic behavior",
+    "text": "autism spectrum disorder",
+    "predicted": "HP:0000729: ",
+    "extracted_text": "autism spectrum disorder",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11455389",
+    "gold_truth": "HP:0009843: Aplasia/Hypoplasia of the middle phalanges of the hand",
+    "text": "missing of the middle phalanges",
+    "predicted": "HP:0010239: Aplasia of the middle phalanx of the hand",
+    "extracted_text": "missing of the middle phalanges",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11748306",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "developmental delay",
+    "predicted": "HP:0011344: Severe global developmental delay",
+    "extracted_text": "severe developmental delay and/or mental retardation",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11748306",
+    "gold_truth": "HP:0001249: Intellectual disability",
+    "text": "mental retardation",
+    "predicted": "HP:0001249: ",
+    "extracted_text": "severe developmental delay and/or mental retardation",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11748306",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "inappropriately happy affect",
+    "predicted": "HP:0040082: Happy demeanor",
+    "extracted_text": "inappropriately happy affect",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11748306",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "hypopigmentation",
+    "predicted": "HP:0001010: ",
+    "extracted_text": "hypopigmentation",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11837604",
+    "gold_truth": "HP:0001156: Brachydactyly",
+    "text": "brachydactyly",
+    "predicted": "HP:0009373: ",
+    "extracted_text": "type c brachydactyly",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "12011146",
+    "gold_truth": "HP:0009590: Unilateral vestibular schwannoma",
+    "text": "unilateral vestibular schwannoma",
+    "predicted": "HP:0009588: Vestibular schwannoma",
+    "extracted_text": "mutations in the vestibular schwannoma",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "12011146",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "vestibular schwannoma",
+    "predicted": "HP:0009588: ",
+    "extracted_text": "mutations in the vestibular schwannoma",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "12235555",
+    "gold_truth": "HP:0002858: Meningioma",
+    "text": "meningiomas",
+    "predicted": "HP:0100009: ",
+    "extracted_text": "intracranial meningioma",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "12404110",
+    "gold_truth": "HP:0000365: Hearing impairment",
+    "text": "profoundly deaf",
+    "predicted": "HP:0012715: Profound hearing impairment",
+    "extracted_text": "profoundly deaf children",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1248162",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial arch syndromes",
+    "predicted": "HP:0009795: Branchial fistula",
+    "extracted_text": "bilateral branchial cleft fistulas",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "12567410",
+    "gold_truth": "HP:0009373: Type C brachydactyly",
+    "text": "brachydactyly type C",
+    "predicted": "HP:0009373: ",
+    "extracted_text": "brachydactyly type c",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "12567410",
+    "gold_truth": "HP:0001762: Talipes equinovarus",
+    "text": "clubfoot",
+    "predicted": "HP:0001776: Bilateral talipes equinovarus",
+    "extracted_text": "severe bilateral vertical talus",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1347096",
+    "gold_truth": "HP:0000924: Abnormality of the skeletal system",
+    "text": "skeletal anomalies",
+    "predicted": "HP:0011842: Abnormal skeletal morphology",
+    "extracted_text": "skeletal anomaly",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1347096",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "intracranial calcification",
+    "predicted": "HP:0430048: ",
+    "extracted_text": "intracranial calcification",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1357962",
+    "gold_truth": "HP:0008935: Generalized neonatal hypotonia",
+    "text": "hypotonic at birth",
+    "predicted": "HP:0001319: Neonatal hypotonia",
+    "extracted_text": "hypotonic at birth",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1415348",
+    "gold_truth": "HP:0009795: Branchial fistula",
+    "text": "branchial fistulae",
+    "predicted": "HP:0009794: Branchial anomaly",
+    "extracted_text": "branchio-oto-renal (bor) syndrome",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1415348",
+    "gold_truth": "HP:0009796: Branchial cyst",
+    "text": "branchial cysts",
+    "predicted": "HP:0009794: Branchial anomaly",
+    "extracted_text": "branchio-oto-renal (bor) syndrome",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1478663",
+    "gold_truth": "HP:0000365: Hearing impairment",
+    "text": "profoundly deaf",
+    "predicted": "HP:0000365: ",
+    "extracted_text": "hearing impairment",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1478663",
+    "gold_truth": "HP:0100272: Branchial sinus",
+    "text": "branchial cleft sinus tracts",
+    "predicted": "HP:0009794: Branchial anomaly",
+    "extracted_text": "branchiootorenal syndrome",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1496982",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "vestibular schwannomas",
+    "predicted": "HP:0009589: Bilateral vestibular schwannoma",
+    "extracted_text": "bilateral vestibular schwannomas",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "15150776",
+    "gold_truth": "HP:0002059: Cerebral atrophy",
+    "text": "cerebral atrophy",
+    "predicted": "HP:0002506: Diffuse cerebral atrophy",
+    "extracted_text": "mild cerebral atrophy",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "15190457",
+    "gold_truth": "HP:0009591: Abnormal vestibulocochlear nerve morphology",
+    "text": "tumors on the vestibular branch of the VIII cranial nerve",
+    "predicted": "HP:0009588: Vestibular schwannoma",
+    "extracted_text": "tumors on the vestibular branch of the viii cranial nerve",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "15190457",
+    "gold_truth": "HP:0100007: Neoplasm of the peripheral nervous system",
+    "text": "peripheral nerve tumors",
+    "predicted": "HP:0004375: Neoplasm of the nervous system",
+    "extracted_text": "nervous system tumor",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "15470370",
+    "gold_truth": "HP:0002167: Abnormal speech pattern",
+    "text": "speech impairment",
+    "predicted": "HP:0002465: Poor speech",
+    "extracted_text": "speech impairment",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0000525: Abnormality iris morphology",
+    "text": "iris pigment epithelial cyst",
+    "predicted": "HP:0011523: Iris cyst",
+    "extracted_text": "iris pigment epithelial cyst",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "16401744",
+    "gold_truth": "HP:0000708: Atypical behavior",
+    "text": "behavioral profile",
+    "predicted": "HP:0025783: Diagnostic behavioral phenotype",
+    "extracted_text": "behavioral profile",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "16401744",
+    "gold_truth": "HP:0000749: Paroxysmal bursts of laughter",
+    "text": "outbursts of laughter",
+    "predicted": "HP:0000748: Inappropriate laughter",
+    "extracted_text": "outbursts of laughter",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "16401744",
+    "gold_truth": "HP:0002069: Bilateral tonic-clonic seizure",
+    "text": "tonic-clonic seizures",
+    "predicted": "HP:0001250: Seizure",
+    "extracted_text": "seizure frequency",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "16957682",
+    "gold_truth": "HP:0006152: Proximal finger symphalangism",
+    "text": "SYM1",
+    "predicted": "HP:0100264: ",
+    "extracted_text": "proximal symphalangism",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "17353411",
+    "gold_truth": "HP:0000478: Abnormality of the eye",
+    "text": "ocular manifestations",
+    "predicted": "HP:0012373: Abnormal eye physiology",
+    "extracted_text": "ocular pathologic",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "17431915",
+    "gold_truth": "HP:0001177: Preaxial hand polydactyly",
+    "text": "preaxial polydactyly",
+    "predicted": "HP:0100258: Preaxial polydactyly",
+    "extracted_text": "right preaxial polydactyly",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18220287",
+    "gold_truth": "HP:0009795: Branchial fistula",
+    "text": "branchial fistulae",
+    "predicted": "HP:0009794: Branchial anomaly",
+    "extracted_text": "branchio-oto-renal syndrome",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18423521",
+    "gold_truth": "HP:0000356: Abnormality of the outer ear",
+    "text": "malformed pinnae",
+    "predicted": "HP:0000377: Abnormal pinna morphology",
+    "extracted_text": "malforme pinnae",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18423521",
+    "gold_truth": "HP:0000202: Orofacial cleft",
+    "text": "oral clefts",
+    "predicted": "HP:0000202: ",
+    "extracted_text": "oral cleft",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18478600",
+    "gold_truth": "HP:0000196: Lower lip pit",
+    "text": "lip pits",
+    "predicted": "HP:0100269: ",
+    "extracted_text": "paramedian lip pit",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18478600",
+    "gold_truth": "HP:0100333: Unilateral cleft lip",
+    "text": "unilateral cleft lip",
+    "predicted": "HP:5201001: Complete unilateral cleft lip",
+    "extracted_text": "unilateral cleft lip and palate",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18629882",
+    "gold_truth": "HP:0005819: Short middle phalanx of finger",
+    "text": "shortening of the middle phalanges in all digits",
+    "predicted": "HP:0006110: Shortening of all middle phalanges of the fingers",
+    "extracted_text": "uniform shortening of the middle phalanges",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "19206155",
+    "gold_truth": "HP:0000077: Abnormality of the kidney",
+    "text": "renal abnormalities",
+    "predicted": "HP:0012210: Abnormal renal morphology",
+    "extracted_text": "renal abnormality",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "1931625",
+    "gold_truth": "HP:0100006: Neoplasm of the central nervous system",
+    "text": "brain tumour",
+    "predicted": "HP:0030692: Brain neoplasm",
+    "extracted_text": "childhood brain tumour",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "19476995",
+    "gold_truth": "HP:0001067: Neurofibroma",
+    "text": "Neurofibromatosis",
+    "predicted": "HP:0001067: ",
+    "extracted_text": "de novo mutation for neurofibromatosis type 2",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "19476995",
+    "gold_truth": "HP:0000951: Abnormality of the skin",
+    "text": "cutaneous lesions",
+    "predicted": "HP:0008069: Neoplasm of the skin",
+    "extracted_text": "skin tumour",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2012134",
+    "gold_truth": "HP:0005484: Secondary microcephaly",
+    "text": "postnatal-onset microcephaly",
+    "predicted": "HP:0000253: Progressive microcephaly",
+    "extracted_text": "postnatal-onset microcephaly",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2012134",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "hypopigmentation",
+    "predicted": "HP:0001010: ",
+    "extracted_text": "hypopigmentation",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2035528",
+    "gold_truth": "HP:0001249: Intellectual disability",
+    "text": "mentally retarded",
+    "predicted": "HP:0001256: Mild intellectual disability",
+    "extracted_text": "9-year-old mentally retarded girl",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2105641",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "acoustic neuromas",
+    "predicted": "HP:0009588: ",
+    "extracted_text": "acoustic neuroma",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2282716",
+    "gold_truth": "HP:0009589: Bilateral vestibular schwannoma",
+    "text": "bilateral occurrence of acoustic neurinomas",
+    "predicted": "HP:0009588: Vestibular schwannoma",
+    "extracted_text": "acoustic neurinomas",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2354548",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial cleft",
+    "predicted": "HP:0009795: Branchial fistula",
+    "extracted_text": "autosomal dominant branchial cleft syndrome",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2466440",
+    "gold_truth": "HP:0002066: Gait ataxia",
+    "text": "ataxic gait",
+    "predicted": "HP:0002066: ",
+    "extracted_text": "ataxic gait",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2667456",
+    "gold_truth": "HP:0001627: Abnormal heart morphology",
+    "text": "cardiac defect",
+    "predicted": "HP:0004307: Abnormal anatomic location of the heart",
+    "extracted_text": "cardiac defect",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2888021",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "acoustic neuromas",
+    "predicted": "HP:0009589: Bilateral vestibular schwannoma",
+    "extracted_text": "bilateral acoustic neurofibromatosis",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "292745",
+    "gold_truth": "HP:0008069: Neoplasm of the skin",
+    "text": "skin tumours",
+    "predicted": "HP:0002671: Basal cell carcinoma",
+    "extracted_text": "multiple basal cell carcinomas",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3105060",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "acoustic neuromas",
+    "predicted": "HP:0009588: ",
+    "extracted_text": "dna markers in two acoustic neuromas",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3134615",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "acoustic neuromas",
+    "predicted": "HP:0009589: Bilateral vestibular schwannoma",
+    "extracted_text": "bilateral acoustic neurofibromatosis",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3134615",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "Intracranial nontumoral calcifications",
+    "predicted": "HP:0006906: Congenital intracerebral calcification",
+    "extracted_text": "intracranial nontumoral calcification",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3180506",
+    "gold_truth": "HP:0002034: Abnormal rectum morphology",
+    "text": "Anorectal malformations",
+    "predicted": "HP:0012732: Anorectal anomaly",
+    "extracted_text": "anorectal malformation",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3185841",
+    "gold_truth": "HP:0009591: Abnormal vestibulocochlear nerve morphology",
+    "text": "8th cranial nerve",
+    "predicted": "HP:0009588: Vestibular schwannoma",
+    "extracted_text": "41 acoustic neurinomas",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3321995",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial cleft sinuses",
+    "predicted": "HP:0009796: Branchial cyst",
+    "extracted_text": "branchial cleft sinuses and/or linear skin lesions behind the ears",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3321995",
+    "gold_truth": "HP:0000164: Abnormality of the dentition",
+    "text": "dental anomalies",
+    "predicted": "HP:0011061: Abnormality of dental structure",
+    "extracted_text": "dental anomaly",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3547011",
+    "gold_truth": "HP:0008069: Neoplasm of the skin",
+    "text": "skin tumors",
+    "predicted": "HP:0008069: ",
+    "extracted_text": "skin cancer",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3547011",
+    "gold_truth": "HP:0000951: Abnormality of the skin",
+    "text": "comedones",
+    "predicted": "HP:0008069: ",
+    "extracted_text": "skin cancer",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3547011",
+    "gold_truth": "HP:0000277: Abnormal mandible morphology",
+    "text": "fibrosarcoma of the jaws",
+    "predicted": "HP:6000595: Mandibular cyst",
+    "extracted_text": "cysts of the jaws",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3674117",
+    "gold_truth": "HP:0001319: Neonatal hypotonia",
+    "text": "hypotonia of infancy",
+    "predicted": "HP:0001252: ",
+    "extracted_text": "hypotonia",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3740720",
+    "gold_truth": "HP:0000410: Mixed hearing impairment",
+    "text": "hearing loss of conductive, sensorineural, or mixed type",
+    "predicted": "HP:0000405: Conductive hearing impairment",
+    "extracted_text": "hearing loss of conductive, sensorineural,",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3740720",
+    "gold_truth": "HP:0000077: Abnormality of the kidney",
+    "text": "lateral cervical sinuses",
+    "predicted": "HP:0012210: ",
+    "extracted_text": "renal malformation",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6261046",
+    "gold_truth": "HP:0001627: Abnormal heart morphology",
+    "text": "enlarged cardiac silhouette",
+    "predicted": "HP:6000145: Boot-shaped cardiac silhouette",
+    "extracted_text": "enlarged cardiac silhouette",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "657583",
+    "gold_truth": "HP:0009795: Branchial fistula",
+    "text": "cervical fistulae",
+    "predicted": "HP:0009794: Branchial anomaly",
+    "extracted_text": "branchio-oto dysplasia",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "657583",
+    "gold_truth": "HP:0000598: Abnormality of the ear",
+    "text": "ear dysplasia",
+    "predicted": "HP:0031703: Abnormal ear morphology",
+    "extracted_text": "auricular malformation",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6741990",
+    "gold_truth": "HP:0030680: Abnormal cardiovascular system morphology",
+    "text": "congenital heart defect",
+    "predicted": "HP:0001627: ",
+    "extracted_text": "congenital heart defect",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6859100",
+    "gold_truth": "HP:0000384: Preauricular skin tag",
+    "text": "preauricular pit or tag",
+    "predicted": "HP:0010609: Skin tags",
+    "extracted_text": "tag",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6882181",
+    "gold_truth": "HP:0001317: Abnormal cerebellum morphology",
+    "text": "cerebellar syndrome",
+    "predicted": "HP:0007033: Cerebellar dysplasia",
+    "extracted_text": "cerebellar syndrome",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6882181",
+    "gold_truth": "HP:0002514: Cerebral calcification",
+    "text": "intracranial calcification",
+    "predicted": "HP:0430048: ",
+    "extracted_text": "intracranial calcification",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6882181",
+    "gold_truth": "HP:0000496: Abnormality of eye movement",
+    "text": "oculomotor disturbances",
+    "predicted": "HP:0000657: Oculomotor apraxia",
+    "extracted_text": "oculomotor disturbances",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6928117",
+    "gold_truth": "HP:0000174: Abnormal palate morphology",
+    "text": "involvement of the palate",
+    "predicted": "HP:0000175: Cleft palate",
+    "extracted_text": "cleft of the palate",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6964893",
+    "gold_truth": "HP:0000359: Abnormality of the inner ear",
+    "text": "defects of the outer, middle and inner ear",
+    "predicted": "HP:0011390: Abnormal inner ear morphology",
+    "extracted_text": "structural defects of the outer, middle and inner ear",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6964893",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial",
+    "predicted": "HP:0009795: ",
+    "extracted_text": "branchial fistula",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6964893",
+    "gold_truth": "HP:0012210: Abnormal renal morphology",
+    "text": "renal malformation",
+    "predicted": "HP:0012210: ",
+    "extracted_text": "renal malformation",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6964893",
+    "gold_truth": "HP:0000110: Renal dysplasia",
+    "text": "renal dysplasia",
+    "predicted": "HP:0000110: ",
+    "extracted_text": "branchio-oto-renal dysplasia",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6973119",
+    "gold_truth": "HP:0000405: Conductive hearing impairment",
+    "text": "conduction",
+    "predicted": "HP:0000410: ",
+    "extracted_text": "mixed hearing loss",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6973119",
+    "gold_truth": "HP:0004452: Abnormality of the middle ear ossicles",
+    "text": "disconnection of the ossicular chain",
+    "predicted": "HP:0005473: Fusion of middle ear ossicles",
+    "extracted_text": "disconnection of the ossicular chain",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7039311",
+    "gold_truth": "HP:0002803: Congenital contracture",
+    "text": "congenital distal limb contractures",
+    "predicted": "HP:0005684: ",
+    "extracted_text": "distal arthrogryposis",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7039311",
+    "gold_truth": "HP:0002804: Arthrogryposis multiplex congenita",
+    "text": "arthrogryposis",
+    "predicted": "HP:0002803: Congenital contracture",
+    "extracted_text": "congenital joint contracture",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7039311",
+    "gold_truth": "HP:0005684: Distal arthrogryposis",
+    "text": "distal arthrogryposis",
+    "predicted": "HP:0005684: ",
+    "extracted_text": "distal arthrogryposis",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7039311",
+    "gold_truth": "HP:0001371: Flexion contracture",
+    "text": "Contractures",
+    "predicted": "HP:0002803: Congenital contracture",
+    "extracted_text": "congenital joint contracture",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7039311",
+    "gold_truth": "HP:0002012: Abnormality of the abdominal organs",
+    "text": "visceral anomalies",
+    "predicted": "HP:0011620: Abnormality of abdominal situs",
+    "extracted_text": "visceral anomalies",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7200726",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "bilateral branchial sinuses",
+    "predicted": "HP:0100272: Branchial sinus",
+    "extracted_text": "bilateral branchial sinuses",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7200726",
+    "gold_truth": "HP:0001511: Intrauterine growth retardation",
+    "text": "intrauterine and postnatal growth retardation",
+    "predicted": "HP:0001510: ",
+    "extracted_text": "growth retardation",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7200726",
+    "gold_truth": "HP:0008897: Postnatal growth retardation",
+    "text": "postnatal growth retardation",
+    "predicted": "HP:0001510: ",
+    "extracted_text": "growth retardation",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7200726",
+    "gold_truth": "HP:0002216: Premature graying of hair",
+    "text": "premature aging",
+    "predicted": "HP:0007495: Prematurely aged appearance",
+    "extracted_text": "premature aging",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7246489",
+    "gold_truth": "HP:0001251: Ataxia",
+    "text": "puppet-like ataxic movements",
+    "predicted": "HP:0002131: Episodic ataxia",
+    "extracted_text": "puppet-like ataxic movement",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7446562",
+    "gold_truth": "HP:0005684: Distal arthrogryposis",
+    "text": "\"distal\" arthrogryposis",
+    "predicted": "HP:0002803: Congenital contracture",
+    "extracted_text": "congenital joint contracture",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7450780",
+    "gold_truth": "HP:0002133: Status epilepticus",
+    "text": "epileptic seizures",
+    "predicted": "HP:0001250: ",
+    "extracted_text": "epileptic seizure",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7747758",
+    "gold_truth": "HP:0004375: Neoplasm of the nervous system",
+    "text": "CNS tumors",
+    "predicted": "HP:0100006: Neoplasm of the central nervous system",
+    "extracted_text": "other cns tumors",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7747758",
+    "gold_truth": "HP:0010302: Spinal cord tumor",
+    "text": "spinal tumors",
+    "predicted": "HP:0010302: ",
+    "extracted_text": "spinal tumor",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7762579",
+    "gold_truth": "HP:0001999: Abnormal facial shape",
+    "text": "craniofacial changes",
+    "predicted": "HP:0011334: Facial shape deformation",
+    "extracted_text": "craniofacial changes",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7977374",
+    "gold_truth": "HP:0001762: Talipes equinovarus",
+    "text": "Club foot",
+    "predicted": "HP:0001776: Bilateral talipes equinovarus",
+    "extracted_text": "dominantly inherited club foot",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7977374",
+    "gold_truth": "HP:0002803: Congenital contracture",
+    "text": "congenital contracture",
+    "predicted": "HP:0005684: Distal arthrogryposis",
+    "extracted_text": "distal arthrogryposis type i (da-1",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8092198",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial arch anomalies",
+    "predicted": "HP:0100272: Branchial sinus",
+    "extracted_text": "branchio-oto-renal",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8102569",
+    "gold_truth": "HP:0001067: Neurofibroma",
+    "text": "neurofibromatosis",
+    "predicted": "HP:0001067: ",
+    "extracted_text": "neurofibromatosis type 2",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8102569",
+    "gold_truth": "HP:0100242: Sarcoma",
+    "text": "sarcoma",
+    "predicted": "HP:0012254: Ewing sarcoma",
+    "extracted_text": "proximal ewing sarcoma region",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8318482",
+    "gold_truth": "HP:0100019: Cortical cataract",
+    "text": "peripheral cortical lens opacities",
+    "predicted": "HP:0010924: Posterior cortical cataract",
+    "extracted_text": "peripheral cortical cataracts",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8494033",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "melanin pigment synthesis in the hair, skin, and eyes",
+    "predicted": "HP:0001022: ",
+    "extracted_text": "albinism",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8576558",
+    "gold_truth": "HP:0001336: Myoclonus",
+    "text": "jerky movements",
+    "predicted": "HP:0040148: Cortical myoclonus",
+    "extracted_text": "age-dependent myoclonic encephalopathy",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8576558",
+    "gold_truth": "HP:0000496: Abnormality of eye movement",
+    "text": "eye deviation",
+    "predicted": "HP:0011347: Abnormality of ocular abduction",
+    "extracted_text": "eye deviation",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8592325",
+    "gold_truth": "HP:0001204: Distal finger symphalangism",
+    "text": "fusion of the middle and terminal phalanges",
+    "predicted": "HP:0009426: Distal third finger symphalangism",
+    "extracted_text": "fusion of the middle and terminal phalanges",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8669439",
+    "gold_truth": "HP:0000271: Abnormality of the face",
+    "text": "craniofacial findings",
+    "predicted": "HP:0001999: Abnormal facial shape",
+    "extracted_text": "craniofacial manifestations",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8751853",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "vestibular schwannomas",
+    "predicted": "HP:0009589: Bilateral vestibular schwannoma",
+    "extracted_text": "bilateral vestibular schwannomas",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8751853",
+    "gold_truth": "HP:0009594: Retinal hamartoma",
+    "text": "retinal hamartomas",
+    "predicted": "HP:0000479: Abnormal retinal morphology",
+    "extracted_text": "retinal abnormality",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8786067",
+    "gold_truth": "HP:0100022: Abnormality of movement",
+    "text": "puppet-like movements",
+    "predicted": "HP:0020037: Astasia",
+    "extracted_text": "as",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8832722",
+    "gold_truth": "HP:0001999: Abnormal facial shape",
+    "text": "milder facial anomalies",
+    "predicted": "HP:0000274: Small face",
+    "extracted_text": "milder facial anomalies",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8832722",
+    "gold_truth": "HP:0007678: Lacrimal duct stenosis",
+    "text": "bilateral congenital nasolacrimal duct obstruction",
+    "predicted": "HP:0000579: Nasolacrimal duct obstruction",
+    "extracted_text": "bilateral congenital nasolacrimal duct obstruction",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8832722",
+    "gold_truth": "HP:0000322: Short philtrum",
+    "text": "short philtrum",
+    "predicted": "HP:0000322: ",
+    "extracted_text": "short philtrum",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8929945",
+    "gold_truth": "HP:0001319: Neonatal hypotonia",
+    "text": "Hypotonia at birth",
+    "predicted": "HP:0001252: ",
+    "extracted_text": "hypotonia",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8929945",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "Hypopigmentation",
+    "predicted": "HP:0001010: ",
+    "extracted_text": "hypopigmentation",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9096761",
+    "gold_truth": "HP:0000175: Cleft palate",
+    "text": "cleft lip or palate",
+    "predicted": "HP:0000202: Orofacial cleft",
+    "extracted_text": "gorlin syndrome",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9096761",
+    "gold_truth": "HP:0000892: Bifid ribs",
+    "text": "bifid ribs",
+    "predicted": "HP:0000892: ",
+    "extracted_text": "bifid rib",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9182785",
+    "gold_truth": "HP:0001249: Intellectual disability",
+    "text": "intellectual disability",
+    "predicted": "HP:0010864: ",
+    "extracted_text": "severe intellectual disability",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9182785",
+    "gold_truth": "HP:0002070: Limb ataxia",
+    "text": "ataxic or hypermotoric limb movements",
+    "predicted": "HP:0001251: Ataxia",
+    "extracted_text": "ataxic",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9182785",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "\"happy\" demeanour",
+    "predicted": "HP:0040082: Happy demeanor",
+    "extracted_text": "constant happy demeanour",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9182785",
+    "gold_truth": "HP:0000749: Paroxysmal bursts of laughter",
+    "text": "Outbursts of laughter",
+    "predicted": "HP:0000748: Inappropriate laughter",
+    "extracted_text": "outbursts of laughter",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9225971",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "neurinomas",
+    "predicted": "HP:0009589: Bilateral vestibular schwannoma",
+    "extracted_text": "bilateral vestibular schwannomas",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9546330",
+    "gold_truth": "HP:0002353: EEG abnormality",
+    "text": "characteristic EEGs",
+    "predicted": "HP:0011202: EEG with diffuse acceleration",
+    "extracted_text": "digitize electroencephalogrpahic",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9546330",
+    "gold_truth": "HP:0004305: Involuntary movements",
+    "text": "flexor spasms",
+    "predicted": "HP:0001336: Myoclonus",
+    "extracted_text": "myoclonia",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "955942",
+    "gold_truth": "HP:0002069: Bilateral tonic-clonic seizure",
+    "text": "grand-mal attacks",
+    "predicted": "HP:0001250: ",
+    "extracted_text": "epilepsy",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9643284",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "vestibular schwannoma",
+    "predicted": "HP:0009589: Bilateral vestibular schwannoma",
+    "extracted_text": "bilateral vestibular schwannomas",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "9811917",
+    "gold_truth": "HP:0009588: Vestibular schwannoma",
+    "text": "acoustic neuromas",
+    "predicted": "HP:0009588: ",
+    "extracted_text": "vestibular schwannoma",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "998578",
+    "gold_truth": "HP:0004467: Preauricular pit",
+    "text": "preauricular pits",
+    "predicted": "HP:0100277: Periauricular skin pits",
+    "extracted_text": "autosomal dominant syndrome of preauricular pits",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "11338037",
+    "gold_truth": "HP:0000277: Abnormal mandible morphology",
+    "text": "bilateral mandibular coronoid processes hyperplasia",
+    "predicted": "HP:3000078: Abnormal mandible coronoid process morphology",
+    "extracted_text": "bilateral mandibular coronoid processes hyperplasia",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "12900905",
+    "gold_truth": "HP:0002573: Hematochezia",
+    "text": "blood stools",
+    "predicted": "HP:0025085: Bloody diarrhea",
+    "extracted_text": "blood stools for 6 months",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "14699618",
+    "gold_truth": "HP:0003298: Spina bifida occulta",
+    "text": "occult spina bifida",
+    "predicted": "HP:0004601: Spina bifida occulta at L5",
+    "extracted_text": "occult spina bifida at l5-s4",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18177466",
+    "gold_truth": "HP:0000364: Hearing abnormality",
+    "text": "auditory manifestations",
+    "predicted": "HP:0000365: ",
+    "extracted_text": "hearing loss",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18177466",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial, otic and renal anomalies",
+    "predicted": "HP:0100272: Branchial sinus",
+    "extracted_text": "branchio-oto-renal",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "18177466",
+    "gold_truth": "HP:0007773: Vitreoretinopathy",
+    "text": "vitreous anomaly",
+    "predicted": "HP:0004327: Abnormal vitreous humor morphology",
+    "extracted_text": "congenital non-progressive vitreous anomaly",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2729353",
+    "gold_truth": "HP:0002167: Abnormal speech pattern",
+    "text": "speech impediment",
+    "predicted": "HP:0002465: Poor speech",
+    "extracted_text": "speech impediment",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "2729353",
+    "gold_truth": "HP:0002363: Abnormal brainstem morphology",
+    "text": "brainstem abnormality",
+    "predicted": "HP:0007362: Aplasia/Hypoplasia of the brainstem",
+    "extracted_text": "no brainstem abnormality",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "3799714",
+    "gold_truth": "HP:0012210: Abnormal renal morphology",
+    "text": "malformations of the kidney",
+    "predicted": "HP:0000077: Abnormality of the kidney",
+    "extracted_text": "malformations of the kidney",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "6829601",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "hemangiomatous branchial clefts",
+    "predicted": "HP:0009796: Branchial cyst",
+    "extracted_text": "hemangiomatous branchial cleft",
+    "rank": 1,
+    "relationship": "parent",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7802001",
+    "gold_truth": "HP:0001999: Abnormal facial shape",
+    "text": "facial characteristics",
+    "predicted": "HP:0000271: Abnormality of the face",
+    "extracted_text": "facial characteristic",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "7802001",
+    "gold_truth": "HP:0007513: Generalized hypopigmentation",
+    "text": "hypopigmentation",
+    "predicted": "HP:0001010: Hypopigmentation of the skin",
+    "extracted_text": "hypopigmentation of skin",
+    "rank": 1,
+    "relationship": "child",
+    "higher_candidates": []
+  },
+  {
+    "doc_id": "8808282",
+    "gold_truth": "HP:0009794: Branchial anomaly",
+    "text": "branchial abnormality",
+    "predicted": "HP:0009794: ",
+    "extracted_text": "branchial abnormality",
+    "rank": 1,
+    "relationship": "exact",
+    "higher_candidates": []
+  }
+]

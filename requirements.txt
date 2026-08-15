@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+spacy
+scispacy
+medspacy
+transformers
+torch
+optimum[onnxruntime]
+onnxruntime
+faiss-cpu
+rapidfuzz
+pronto

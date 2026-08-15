@@ -1,0 +1,3542 @@
+[
+  {
+    "doc_id": "10569966",
+    "gold_truth": "HP:0000951: Abnormality of the skin",
+    "text": "skin features",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['neurofibromatosis type 2', 'dominant', 'neurofibromas/schwannoma', 'childhood meningioma', 'isolated tumour', 'meningioma on the Manchester Children', 'classic features of NF2', 'neurofibromatosis type 1']"
+  },
+  {
+    "doc_id": "10569966",
+    "gold_truth": "HP:0000957: Cafe-au-lait spot",
+    "text": "café au lait patches",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['neurofibromatosis type 2', 'dominant', 'neurofibromas/schwannoma', 'childhood meningioma', 'isolated tumour', 'meningioma on the Manchester Children', 'classic features of NF2', 'neurofibromatosis type 1']"
+  },
+  {
+    "doc_id": "10631923",
+    "gold_truth": "HP:0011453: Abnormal incus morphology",
+    "text": "Anomalies of the semicircular canals and the incus",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0011380: Abnormal semicircular canal morphology",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0040108: Abnormal anterior semicircular canal morphology",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0040107: Abnormal posterior semicircular canal morphology",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0040106: Abnormal lateral semicircular canal morphology",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0011381: Aplasia of the semicircular canal",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0011382: Hypoplasia of the semicircular canal",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0000372: Abnormal auditory canal morphology",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0011383: Enlarged semicircular canal",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0011390: Abnormal inner ear morphology",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Anomalies of the semicircular canals",
+        "candidate_id": "HP:0011384: Abnormality of the internal auditory canal",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "10631923",
+    "gold_truth": "HP:0001256: Mild intellectual disability",
+    "text": "mildly mentally retarded",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['Townes-Brocks syndrome', 'inherit syndrome', 'imperforate anus', 'Triphalangeal thumb', 'ear anomaly', 'deafness', 'Anomalies of the semicircular canals', 'inculomalleolar fusion', 'abdominal pain', 'hereditary angioneurotic edema', 'antepositioned anus', 'bifid right thumb', 'large toes', 'low set ears', 'microretrognathia']"
+  },
+  {
+    "doc_id": "10631923",
+    "gold_truth": "HP:0004322: Short stature",
+    "text": "short stature",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['Townes-Brocks syndrome', 'inherit syndrome', 'imperforate anus', 'Triphalangeal thumb', 'ear anomaly', 'deafness', 'Anomalies of the semicircular canals', 'inculomalleolar fusion', 'abdominal pain', 'hereditary angioneurotic edema', 'antepositioned anus', 'bifid right thumb', 'large toes', 'low set ears', 'microretrognathia']"
+  },
+  {
+    "doc_id": "11342693",
+    "gold_truth": "HP:0000496: Abnormality of eye movement",
+    "text": "monocular elevator paresis",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0020041: Double elevator palsy",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0010877: Monocular strabismus",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0025331: Upgaze palsy",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0012799: Unilateral facial palsy",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0011333: Asymmetric crying face",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0012821: Unilateral vocal cord paresis",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0007687: Unilateral ptosis",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0006897: Abducens palsy",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0007824: Total ophthalmoplegia",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "monocular elevator paresis",
+        "candidate_id": "HP:0020042: Double depressor palsy",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "11382639",
+    "gold_truth": "HP:0000271: Abnormality of the face",
+    "text": "basal cell carcinomas on the face",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0002671: Basal cell carcinoma",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0007606: Multiple cutaneous malignancies",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0031548: Follicular infundibulum tumor",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0011336: Bitemporal forceps marks",
+        "rank": 4,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0031287: Seborrheic keratosis",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0100825: Cheilitis",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0032452: Oral melanoacanthoma",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0000191: Accessory oral frenulum",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0034946: Multiple eyelid margin cysts",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple basal cell carcinomas on the face",
+        "candidate_id": "HP:0001003: Multiple lentigines",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "11382639",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "cancer",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['eyelid basal cell carcinoma', 'gorlin-goltz syndrome', 'frontal bossing', 'increased occipitofrontal circumference', 'palmar pit', 'odontogenic keratocyst', 'ectopic calcification', 'bifid rib', 'multiple basal cell carcinomas on the face', 'orbital infiltration', 'orbital exenteration', 'eyelid reconstruction']"
+  },
+  {
+    "doc_id": "12136076",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumor",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0001067: Neurofibroma",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0007524: Atypical neurofibromatosis",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0034761: Neurofibroma by anatomical location",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0100697: Neurofibrosarcoma",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0005220: Multiple intestinal neurofibromatosis",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0009735: Spinal neurofibroma",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0009595: Occasional neurofibromas",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0006851: Symmetric spinal nerve root neurofibromas",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0009732: Plexiform neurofibroma",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "neurofibromatosis 2 (NF2) tumor suppressor gene",
+        "candidate_id": "HP:0006751: Paraspinal neurofibroma",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "1248162",
+    "gold_truth": "HP:0000378: Cupped ear",
+    "text": "cup-shaped, anteverted pinnae",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0040080: Anteverted ears",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0000463: Anteverted nares",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0000400: Macrotia",
+        "rank": 3,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0000369: Low-set ears",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0008551: Microtia",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0000356: Abnormality of the outer ear",
+        "rank": 6,
+        "relationship": "grandchild"
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0100810: Pointed helix",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0000358: Posteriorly rotated ears",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0009909: Uplifted earlobe",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "anteverted pinnae",
+        "candidate_id": "HP:0003990: Pointed ulna",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "1248162",
+    "gold_truth": "HP:0004467: Preauricular pit",
+    "text": "prehelical pits",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['mixed hearing loss', 'Mondini type cochlear malformation', 'stape fixation', 'anteverted pinnae', 'bilateral branchial cleft fistulas', 'bilateral renal dysplasia', 'anomalies of the collecting system', 'aplasia of the lacrimal ducts', 'bilateral polycystic kidneys']"
+  },
+  {
+    "doc_id": "12567410",
+    "gold_truth": "HP:0008419: Intervertebral disk degeneration",
+    "text": "Premature vertebral end-plate disease",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0012711: Delayed ossification of vertebral epiphysis",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0030776: Modic type I vertebral endplate changes",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0010588: Premature epimetaphyseal fusion",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0030775: Modic type vertebral endplate changes",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0002655: Spondyloepiphyseal dysplasia",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0002654: Multiple epiphyseal dysplasia",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0002656: Epiphyseal dysplasia",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0004603: Hyperconvex vertebral body endplates",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0002651: Spondyloepimetaphyseal dysplasia",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "premature vertebral end-plate disease",
+        "candidate_id": "HP:0003422: Vertebral segmentation defect",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "1307249",
+    "gold_truth": "HP:0000077: Abnormality of the kidney",
+    "text": "manifestations affecting branchial, renal",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0100272: Branchial sinus",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0009796: Branchial cyst",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0009794: Branchial anomaly",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0031922: Renal artery duplication",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0025359: Polygonal renal calices",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0009795: Branchial fistula",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0000125: Pelvic kidney",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0012783: Intralobar nephrogenic rest",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0000075: Renal duplication",
+        "rank": 9,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "branchial, renal",
+        "candidate_id": "HP:0033618: Displaced lobar tracheal bronchus",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "1347096",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "developmental malformations",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0012759: Neurodevelopmental abnormality",
+        "rank": 1,
+        "relationship": "grandchild"
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0033334: Abnormal embryonic development",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0007281: Developmental stagnation",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0006482: Abnormal dental morphology",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0000271: Abnormality of the face",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0001197: Abnormality of prenatal development or birth",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0000118: Phenotypic abnormality",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0002652: Skeletal dysplasia",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0034057: Fetal anomaly",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental malformation",
+        "candidate_id": "HP:0034058: Abnormal fetal morphology",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "1415348",
+    "gold_truth": "HP:0000077: Abnormality of the kidney",
+    "text": "renal defect",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['bor syndrome', 'oligohydramnios', 'renal hypoplasia', 'agenesis', 'died neonatally of pulmonary hypoplasia', 'immaturity of the middle ear cleft', 'ossicle', 'facial nerve', 'cochlear nerve', 'preauricular pit', 'lacrimal duct stenosis', 'branchial fistulae', 'cyst', 'hearing study']"
+  },
+  {
+    "doc_id": "1456285",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "other tumors",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0100836: Malignant neoplasm of the central nervous system",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0004375: Neoplasm of the nervous system",
+        "rank": 3,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0025170: Neuronal/glioneuronal neoplasm of the central nervous system",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0030060: Nervous tissue neoplasm",
+        "rank": 5,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0100007: Neoplasm of the peripheral nervous system",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0030692: Brain neoplasm",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0002011: Morphological central nervous system abnormality",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0100835: Benign neoplasm of the central nervous system",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "other tumors in the central nervous system",
+        "candidate_id": "HP:0011450: Unusual CNS infection",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "14735582",
+    "gold_truth": "HP:0009495: Pseudoepiphysis of the 2nd finger",
+    "text": "hyperphalangy, usually of the index and middle finger",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0030367: Finger hyperphalangy",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0009882: Short distal phalanx of finger",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0031010: Hyperphalangy of the 3rd finger",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0006118: Shortening of all distal phalanges of the fingers",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0006247: Enlarged interphalangeal joints",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0030368: Hyperphalangy of the 2nd finger",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0004099: Macrodactyly",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0000244: Brachyturricephaly",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0006237: Prominent interphalangeal joints",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "hyperphalangy",
+        "candidate_id": "HP:0006185: Enlarged proximal interphalangeal joints",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "1479599",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumour",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0010302: Spinal cord tumor",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0100010: Spinal meningioma",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0009735: Spinal neurofibroma",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0030060: Nervous tissue neoplasm",
+        "rank": 5,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0004375: Neoplasm of the nervous system",
+        "rank": 6,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0010622: Neoplasm of the skeletal system",
+        "rank": 7,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0030430: Neuroma",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0100561: Spinal cord lesion",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "spinal tumour",
+        "candidate_id": "HP:0100007: Neoplasm of the peripheral nervous system",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0000478: Abnormality of the eye",
+    "text": "ocular manifestations",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['branchio-oculo-facial (bof) syndrome', 'bof syndrome', 'fundus lesion', 'left eye', 'branchial cleft fistula from the right side of neck at age 4 years', 'right eye', 'iris pigment epithelial cyst', 'combined hamartoma of there', 'retina pigment epithelium', 'craniofacial', 'auricular', 'oral', 'lacrimal sac fistula', 'retinal pigment epithelium']"
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0001144: Orbital cyst",
+    "text": "fundus lesion",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0001098: Abnormal fundus morphology",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0031605: Abnormality of fundus pigmentation",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0001099: Fundus atrophy",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0007680: Depigmented fundus",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0031803: Fundus hemorrhage",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0011512: Hyperpigmentation of the fundus",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0001103: Abnormal macular morphology",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0008057: Aplasia/Hypoplasia affecting the fundus",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0007703: Abnormality of retinal pigmentation",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "fundus lesion",
+        "candidate_id": "HP:0000479: Abnormal retinal morphology",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "15734008",
+    "gold_truth": "HP:0000632: Lacrimation abnormality",
+    "text": "lacrimal sac fistula",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0030752: Dacryocystocele",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0000564: Lacrimal duct atresia",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0000579: Nasolacrimal duct obstruction",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0007820: Lacrimal punctal atresia",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0500034: Nasolacrimal sac obstruction",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0032514: Supernumerary lacrimal punctum",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0000620: Dacryocystitis",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0010748: Ectopic lacrimal punctum",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0001092: Absent lacrimal punctum",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lacrimal sac fistula",
+        "candidate_id": "HP:0025025: Rectovestibular fistula",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "17307835",
+    "gold_truth": "HP:0009589: Bilateral vestibular schwannoma",
+    "text": "bilateral vestibular schwannoma",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['neurofibromatosis type 2', 'mosaicism']"
+  },
+  {
+    "doc_id": "18423521",
+    "gold_truth": "HP:0001999: Abnormal facial shape",
+    "text": "craniofacial disorder",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0008501: Median cleft lip and palate",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0000202: Orofacial cleft",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0002744: Bilateral cleft lip and palate",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0000175: Cleft palate",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0100337: Bilateral cleft palate",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0100338: Non-midline cleft palate",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0000185: Cleft soft palate",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0009099: Median cleft palate",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:0100334: Unilateral cleft palate",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "autosomal-dominant cleft palate-craniofacial disorder",
+        "candidate_id": "HP:5201005: Complete cleft soft palate",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "19557015",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumors",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['basal cell nevus syndrome', 'autosomal dominant disorder', 'basal cell carcinoma', 'medulloblastoma', 'premature termination']"
+  },
+  {
+    "doc_id": "2012134",
+    "gold_truth": "HP:0000610: Abnormal choroid morphology",
+    "text": "choroidal pigment hypoplasia",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0040030: Chorioretinal hypopigmentation",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0007703: Abnormality of retinal pigmentation",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0008002: Abnormality of macular pigmentation",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0040031: Chorioretinal hyperpigmentation",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0000580: Pigmentary retinopathy",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0008035: Retinitis pigmentosa inversa",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0007722: Retinal pigment epithelial atrophy",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0007947: Pericentral retinitis pigmentosa",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0007894: Hypopigmentation of the fundus",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "choroidal pigment hypoplasia",
+        "candidate_id": "HP:0007649: Congenital hypertrophy of retinal pigment epithelium",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "2105641",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumors",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0004375: Neoplasm of the nervous system",
+        "rank": 1,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0025170: Neuronal/glioneuronal neoplasm of the central nervous system",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0001067: Neurofibroma",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0100007: Neoplasm of the peripheral nervous system",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0031003: Polyneuritis",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0030060: Nervous tissue neoplasm",
+        "rank": 7,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0100836: Malignant neoplasm of the central nervous system",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0100697: Neurofibrosarcoma",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the nervous system",
+        "candidate_id": "HP:0100008: Schwannoma",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "2164325",
+    "gold_truth": "HP:0000175: Cleft palate",
+    "text": "cleft palate",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['popliteal pterygium syndrome']"
+  },
+  {
+    "doc_id": "2164325",
+    "gold_truth": "HP:0001770: Toe syndactyly",
+    "text": "toe syndactyly",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['popliteal pterygium syndrome']"
+  },
+  {
+    "doc_id": "2164325",
+    "gold_truth": "HP:0001159: Syndactyly",
+    "text": "syndactyly",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['popliteal pterygium syndrome']"
+  },
+  {
+    "doc_id": "2466440",
+    "gold_truth": "HP:0000749: Paroxysmal bursts of laughter",
+    "text": "episodes of paroxysmal laughter",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - [\"angelman's syndrome\", 'global developmental delay', 'ataxia', 'seizure', 'microcephaly', 'prominent jaw', 'wide mouth', 'pointed chin', 'tongue thrusting', 'movement disorder', 'ataxic gait', 'frequent jerky limb movements', 'flapping of the hands', 'tone', 'variable in the limbs', 'normal reflex', 'plantar response']"
+  },
+  {
+    "doc_id": "2466440",
+    "gold_truth": "HP:0001999: Abnormal facial shape",
+    "text": "facial appearance",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - [\"angelman's syndrome\", 'global developmental delay', 'ataxia', 'seizure', 'microcephaly', 'prominent jaw', 'wide mouth', 'pointed chin', 'tongue thrusting', 'movement disorder', 'ataxic gait', 'frequent jerky limb movements', 'flapping of the hands', 'tone', 'variable in the limbs', 'normal reflex', 'plantar response']"
+  },
+  {
+    "doc_id": "2466440",
+    "gold_truth": "HP:0000182: Movement abnormality of the tongue",
+    "text": "Tongue thrusting",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0100703: Tongue thrusting",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0010808: Protruding tongue",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0001308: Tongue fasciculations",
+        "rank": 3,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0031947: Tongue tremor",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0000221: Furrowed tongue",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0000158: Macroglossia",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0010297: Bifid tongue",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0031373: Stiff tongue",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0000180: Lobulated tongue",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "tongue thrusting",
+        "candidate_id": "HP:0030284: Triangular tongue",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "263442",
+    "gold_truth": "HP:0007925: Lacrimal duct aplasia",
+    "text": "lachrymal duct stenosis",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0007678: Lacrimal duct stenosis",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0025572: Punctal stenosis",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0030745: Dilatation of the ductus arteriosus",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0000452: Choanal stenosis",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0002410: Aqueductal stenosis",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:3000065: Abnormal lacrimal artery morphology",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0007900: Hypoplastic lacrimal duct",
+        "rank": 7,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0007993: Malformed lacrimal duct",
+        "rank": 8,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0040118: Stenosis of the Eustachian tube",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "lachrymal duct stenosis",
+        "candidate_id": "HP:0020224: Mammary duct ectasia",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "263442",
+    "gold_truth": "HP:0000598: Abnormality of the ear",
+    "text": "structural defects of the outer, middle, and inner ear",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0011390: Abnormal inner ear morphology",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0000359: Abnormality of the inner ear",
+        "rank": 2,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0008609: Abnormal middle ear morphology",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0011389: Functional abnormality of the inner ear",
+        "rank": 4,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0000356: Abnormality of the outer ear",
+        "rank": 5,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0000370: Abnormality of the middle ear",
+        "rank": 6,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:3000002: Abnormal inner ear epithelium morphology",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0011376: Abnormal morphology of the vestibule of the inner ear",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0011452: Functional abnormality of the middle ear",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "structural defects of the outer, middle, and inner ear",
+        "candidate_id": "HP:0008774: Aplasia/Hypoplasia of the inner ear",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "2888021",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumours",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0004375: Neoplasm of the nervous system",
+        "rank": 1,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0001067: Neurofibroma",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0025170: Neuronal/glioneuronal neoplasm of the central nervous system",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0100007: Neoplasm of the peripheral nervous system",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0031003: Polyneuritis",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0030060: Nervous tissue neoplasm",
+        "rank": 7,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0100836: Malignant neoplasm of the central nervous system",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0100697: Neurofibrosarcoma",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumours of the nervous system",
+        "candidate_id": "HP:0100008: Schwannoma",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "2918545",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "happy disposition",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - [\"angelman's syndrome\", 'mental retardation', 'epilepsy', 'ataxia', 'pericentric inversion']"
+  },
+  {
+    "doc_id": "3185841",
+    "gold_truth": "HP:0002363: Abnormal brainstem morphology",
+    "text": "brain stem symptoms",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      "41 acoustic neurinomas",
+      "giant tumor",
+      "cerebellar symptom",
+      "signs",
+      "8th cranial nerve",
+      "affect",
+      "lesions of further cranial nerves",
+      "increasing intracranial pressure",
+      "mortality",
+      "of hearing"
+    ]
+  },
+  {
+    "doc_id": "3321995",
+    "gold_truth": "HP:0000437: Depressed nasal tip",
+    "text": "flattened tip",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['autosomal dominant disorder of abnormal upper lip', 'poorly repaired cleft lip', 'malformed nose', 'lacrimal duct obstruction', 'malformed ear', 'branchial cleft sinuses and/or linear skin lesions behind the ears', 'coloboma', 'microphthalmia', 'auricular pit', 'lip pit', 'highly arched plate', 'dental anomaly', 'subcutaneous cysts of the scalp', 'graying of hair', 'growth retardation', 'developmental delay', 'hand anomaly']"
+  },
+  {
+    "doc_id": "3321995",
+    "gold_truth": "HP:0001965: Abnormal scalp morphology",
+    "text": "cysts of the scalp",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0200040: Epidermoid cyst",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0010769: Pilonidal sinus",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0012096: Intracranial epidermoid cyst",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0012097: Intracranial dermoid cyst",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0025246: Trichilemmal cyst",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0030668: Periorbital dermoid cyst",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0025245: Cutaneous cyst",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0002416: Subependymal cysts",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0025247: Dermoid cyst",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "subcutaneous cysts of the scalp",
+        "candidate_id": "HP:0007385: Aplasia cutis congenita of scalp",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "3409926",
+    "gold_truth": "HP:0001250: Seizure",
+    "text": "seizures",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['EEG study', 'angelman syndrome', 'EEG abnormalities', 'drowsiness', 'ill-defined spike/wave complexes', 'Spikes mixed with 3-4/s components', 'discharges mixed with slow components on eye closure']"
+  },
+  {
+    "doc_id": "3547011",
+    "gold_truth": "HP:0000718: Aggressive behavior",
+    "text": "aggression",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['nevoid basal-cell carcinomas', 'multiple basal-cell carcinomata', 'cysts of the jaws', 'skeletal--', 'rib--abnormality', 'odontogenic keratocyst', 'skin tumor', 'milia', 'epidermoid cyst', 'chalazia', 'comedo', 'palmar', 'plantar pit', 'skin cancer', 'Unilateral linear nevoid basal-cell carcinoma', 'postzygotic somatic mutation', 'medulloblastoma', 'meningioma', 'ovarian fibroma', 'ovarian fibrosarcoma', 'fibrosarcoma of the jaws', 'cardiac fibroma', 'fetal rhabdomyoma', 'chylous cysts of the mesentery', '13-cis-retinoic acid', 'prostaglandin level', 'antiprostaglandin']"
+  },
+  {
+    "doc_id": "3674117",
+    "gold_truth": "HP:0001513: Obesity",
+    "text": "obesity",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['duplication', 'prader-willi syndrome', 'cytogenetic defect', 'Williams syndrome', 'Angelman (Happy Puppet) syndrome', 'hypotonia', 'developmental delay']"
+  },
+  {
+    "doc_id": "3740720",
+    "gold_truth": "HP:0001056: Milia",
+    "text": "milie",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      "branchio-oto-renal dysplasia",
+      "bor syndrome",
+      "hearing loss of conductive, sensorineural,",
+      "preauricular pit",
+      "auricular deformity",
+      "lateral cervical sinus",
+      "cyst",
+      "fistula",
+      "renal malformation",
+      "aural malformation"
+    ]
+  },
+  {
+    "doc_id": "4006277",
+    "gold_truth": "HP:0001291: Abnormal cranial nerve morphology",
+    "text": "cranial nerve-end organ innervation",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['branchio-oto-renal', 'bor syndrome', 'ear pit', 'branchial cleft cyst', 'deafness', 'renal anomaly', 'lacrimal stenosis', 'lacrimal reflex testing']"
+  },
+  {
+    "doc_id": "509397",
+    "gold_truth": "HP:0000478: Abnormality of the eye",
+    "text": "eye enucleations",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0011480: Unilateral microphthalmos",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0000528: Anophthalmia",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0011478: True anophthalmia",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:5201000: Incomplete unilateral cleft lip",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:5201001: Complete unilateral cleft lip",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0007633: Bilateral microphthalmos",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0012833: Unilateral",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0009900: Unilateral deafness",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0100334: Unilateral cleft palate",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "two unilateral eye enucleations",
+        "candidate_id": "HP:0007687: Unilateral ptosis",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "657583",
+    "gold_truth": "HP:0002009: Potter facies",
+    "text": "Potter facies",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      "branchio-oto-renal dysplasia",
+      "bor syndrome",
+      "branchio-oto dysplasia",
+      "external ear malformations",
+      "cervical fistulae",
+      "mixed hearing loss",
+      "renal anomaly",
+      "sensorineural component",
+      "hereditary ear dysplasia-renal adysplasia",
+      "auricular malformation"
+    ]
+  },
+  {
+    "doc_id": "6631421",
+    "gold_truth": "HP:0006461: Proximal femoral epiphysiolysis",
+    "text": "coxa-epiphysiolysis",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['mental retardation', 'bilateral thumb ankylosis', 'slight dysmorphia', 'type a brachydactylia', 'obesity', 'identical ankylosis of both thumbs']"
+  },
+  {
+    "doc_id": "6631421",
+    "gold_truth": "HP:0001172: Abnormal thumb morphology",
+    "text": "thumb ankylosis",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009656: Symphalangism of the thumb",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0005722: Hyperextensible thumb",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009635: Synostosis of thumb phalanx",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009640: Synostosis of the proximal phalanx of the thumb with the 1st metacarpal",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0005707: Bilateral triphalangeal thumbs",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009943: Complete duplication of thumb phalanx",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009944: Partial duplication of thumb phalanx",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009612: Duplication of the distal phalanx of the thumb",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009942: Duplication of thumb phalanx",
+        "rank": 9,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "bilateral thumb ankylosis",
+        "candidate_id": "HP:0009611: Bifid distal phalanx of the thumb",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "6846397",
+    "gold_truth": "HP:0000077: Abnormality of the kidney",
+    "text": "renal anomalies",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['bor syndrome', 'potter syndrome', 'crossed renal ectopia', 'bilateral renal agenesis', 'oligohydramnios', 'maternal serum alpha-fetoprotein']"
+  },
+  {
+    "doc_id": "6882181",
+    "gold_truth": "HP:0004363: Abnormal circulating calcium concentration",
+    "text": "calcium metabolism",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['syndrome of cerebral gigantism', 'jaw cyst basal cell naevoid syndrome', 'mild hydrocephalus', 'ventricular malformation', 'cerebellar syndrome', 'intracranial calcification', 'oculomotor disturbances', 'EEG abnormalities', 'mild peripheral nervous disorder']"
+  },
+  {
+    "doc_id": "6928117",
+    "gold_truth": "HP:0002814: Abnormality of the lower limb",
+    "text": "involvement of the lower limbs",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['popliteal pterygium syndrome', 'cleft of the palate', 'lower lip pits', 'extensive involvement of the palate', 'gum', 'low limb', 'genitalia', 'nail']"
+  },
+  {
+    "doc_id": "6973119",
+    "gold_truth": "HP:0004467: Preauricular pit",
+    "text": "earpit",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0008527: Congenital sensorineural hearing impairment",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0000407: Sensorineural hearing impairment",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0008607: Progressive conductive hearing impairment",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0000410: Mixed hearing impairment",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0001757: High-frequency sensorineural hearing impairment",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0000365: Hearing impairment",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0008615: Adult onset sensorineural hearing impairment",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0008591: Congenital conductive hearing impairment",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0009901: Crumpled ear",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "earpit-deafness syndrome",
+        "candidate_id": "HP:0012714: Severe hearing impairment",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "7039311",
+    "gold_truth": "HP:0000211: Trismus",
+    "text": "trismus",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0012385: Camptodactyly",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0005617: Bilateral camptodactyly",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0001836: Camptodactyly of toe",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0100490: Camptodactyly of finger",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0001156: Brachydactyly",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0009373: Type C brachydactyly",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0001215: Camptodactyly of 2nd-5th fingers",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0009471: Contracture of the proximal interphalangeal joint of the 3rd finger",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0040023: Clinodactyly of the thumb",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "trismus-pseudo-camptodactyly syndrome",
+        "candidate_id": "HP:0009276: Contracture of the proximal interphalangeal joint of the 4th finger",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "7057963",
+    "gold_truth": "HP:0000951: Abnormality of the skin",
+    "text": "Cutaneous manifestations",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['bilateral acoustic neuroma', 'symptomatic', 'additional central nervous system tumors', 'neurofibromatosis']"
+  },
+  {
+    "doc_id": "7057963",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumors",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0100836: Malignant neoplasm of the central nervous system",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0025170: Neuronal/glioneuronal neoplasm of the central nervous system",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0004375: Neoplasm of the nervous system",
+        "rank": 4,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0030061: Neuroectodermal neoplasm",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0030692: Brain neoplasm",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0030070: Central primitive neuroectodermal tumor",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0100697: Neurofibrosarcoma",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0030060: Nervous tissue neoplasm",
+        "rank": 9,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "additional central nervous system tumors",
+        "candidate_id": "HP:0012755: Enlarged brainstem",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "7091188",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "Happy Puppet",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['severe mental retardation', 'gait', 'craniofacial abnormality', 'laughter', 'unilateral cerebellar atrophy']"
+  },
+  {
+    "doc_id": "7246489",
+    "gold_truth": "HP:0001251: Ataxia",
+    "text": "puppet-like ataxic movements",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['severe mental retardation', 'epilepsy', 'microbrachycephaly', 'prognathism', 'tongue protrusion', 'inappropriate paroxysms of laughter', 'chromosomal', 'dermatoglyphic', 'eeg']"
+  },
+  {
+    "doc_id": "7319144",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "happy puppet",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['inconsistent responsiveness to']"
+  },
+  {
+    "doc_id": "7319144",
+    "gold_truth": "HP:0001250: Seizure",
+    "text": "seizure",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['inconsistent responsiveness to']"
+  },
+  {
+    "doc_id": "7446562",
+    "gold_truth": "HP:0004322: Short stature",
+    "text": "short in stature",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['congenital joint contracture', 'severe ulnar deviation of fingers', 'soft-tissue contractures of both hands', 'bilateral clubfeet', 'delayed carpal ossification', 'arthrogryposis']"
+  },
+  {
+    "doc_id": "7450780",
+    "gold_truth": "HP:0100024: Conspicuously happy disposition",
+    "text": "happy puppet",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['severe mental retardation', 'epileptic seizure', 'prolonged paroxysms of laughter', 'atactic jerky movements', 'hypotonia', 'large mandible', 'prognathia', '2-3 cps spike and wave activity in the EEG']"
+  },
+  {
+    "doc_id": "7450780",
+    "gold_truth": "HP:0001251: Ataxia",
+    "text": "atactic jerky movements",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0001336: Myoclonus",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0006961: Jerky head movements",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0002305: Athetosis",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0001337: Tremor",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0034360: Action myoclonus",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0002411: Myokymia",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0002345: Action tremor",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0032116: Macrosquare-wave jerks",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0002169: Clonus",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "atactic jerky movements",
+        "candidate_id": "HP:0001266: Choreoathetosis",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "7747785",
+    "gold_truth": "HP:0000951: Abnormality of the skin",
+    "text": "abnormal overlying skin",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['branchio-oculo-facial (bof) syndrome', 'branchio-otorenal syndrome', 'eye', 'congenital heart', 'hearing', 'oral', 'craniofacial anomaly', 'cervical/infra-auricular', 'supra-auricular defect', 'cervical defect', 'draining sinus fistula', 'renal malformation', 'central nervous system', 'Psychomotor performance', 'development delays', 'hypotonia', 'visual', 'speech problem', 'autosomal dominant inheritance']"
+  },
+  {
+    "doc_id": "7762579",
+    "gold_truth": "HP:0001155: Abnormality of the hand",
+    "text": "hand and foot involvement",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0009027: Foot dorsiflexor weakness",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0011301: Absent foot",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0001773: Short foot",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0001833: Long foot",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0030051: Tip-toe gait",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0001761: Pes cavus",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0001760: Abnormal foot morphology",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0001763: Pes planus",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0001839: Split foot",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "foot",
+        "candidate_id": "HP:0025238: Foot pain",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8042672",
+    "gold_truth": "HP:0000953: Hyperpigmentation of the skin",
+    "text": "increased skin pigmentation",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['autosomal dominant multisystem disorder', '-American NBCC', 'jaw cyst', 'palmar and/or plantar pits', 'calcification of the falx cerebri', 'nevoid basal cell carcinoma syndrome', 'skin tumor']"
+  },
+  {
+    "doc_id": "8103288",
+    "gold_truth": "HP:0001999: Abnormal facial shape",
+    "text": "Dysmorphogenesis",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0001249: Intellectual disability",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0001263: Global developmental delay",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0010864: Intellectual disability, severe",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0012759: Neurodevelopmental abnormality",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0001256: Intellectual disability, mild",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0006889: Intellectual disability, borderline",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0100543: Cognitive impairment",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0002376: Developmental regression",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0012758: Neurodevelopmental delay",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "Dysmorphogenesis and/or mental retardation",
+        "candidate_id": "HP:0006887: Intellectual disability, progressive",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8326488",
+    "gold_truth": "HP:0010618: Ovarian fibroma",
+    "text": "ovarian calcification or fibroma",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0030425: Calcified ovarian cyst",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0008703: Gonadal calcification",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0000147: Polycystic ovaries",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0010464: Streak ovary",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0000138: Ovarian cyst",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0034571: Ovarian fibrosis",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0010766: Ectopic calcification",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0031259: Oophoritis",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0010513: Pituitary calcification",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "ovarian calcification",
+        "candidate_id": "HP:0010512: Adrenal calcification",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8379998",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumours",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['neurofibromatosis type 2', 'nf2', 'nervous system tumour']"
+  },
+  {
+    "doc_id": "8414026",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumors",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0100006: Neoplasm of the central nervous system",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0100836: Malignant neoplasm of the central nervous system",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0025170: Neuronal/glioneuronal neoplasm of the central nervous system",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0033714: Multiple meningiomas",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0004375: Neoplasm of the nervous system",
+        "rank": 5,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0007606: Multiple cutaneous malignancies",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0100251: Multiple central nervous system lipomas",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0001067: Neurofibroma",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0012065: Multiple bony cystic lesions",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple tumors of the central nervous system",
+        "candidate_id": "HP:0030069: Primary central nervous system lymphoma",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8533848",
+    "gold_truth": "HP:0009911: Abnormal temporal bone morphology",
+    "text": "temporal bone findings",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['branchiootorenal (bor) syndrome', 'dominant disorder of the first and second embryonic branchial arches', 'kidney', 'urinary tract', 'cochlear hypoplasia', 'dilation of the vestibular aqueduct', 'bulbous internal auditory canals', 'deep posterior fossae', 'acutely-angled promontory']"
+  },
+  {
+    "doc_id": "8533848",
+    "gold_truth": "HP:0000359: Abnormality of the inner ear",
+    "text": "dilation of the vestibular aqueduct",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0011387: Enlarged vestibular aqueduct",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0011379: Dilated vestibule of the inner ear",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0011388: Enlarged cochlear aqueduct",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0002410: Aqueductal stenosis",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0012520: Dilation of Virchow-Robin spaces",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0011383: Enlarged semicircular canal",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0011377: Aplasia of the vestibule",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0011378: Hypoplasia of the vestibule of the inner ear",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0004458: Dilatated internal auditory canal",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "dilation of the vestibular aqueduct",
+        "candidate_id": "HP:0031000: Vestibular saccular degeneration",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8576558",
+    "gold_truth": "HP:0007030: Nonprogressive encephalopathy",
+    "text": "nonprogressive, age-dependent myoclonic encephalopathy",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0002123: Generalized myoclonic seizure",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0011170: Generalized myoclonic-atonic seizure",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0045084: Limb myoclonus",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0040148: Cortical myoclonus",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0032815: Neonatal electro-clinical myoclonic seizure",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0025357: Erratic myoclonus",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0032816: Neonatal multifocal myoclonic seizure",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0011166: Focal myoclonic seizure",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0032730: Focal impaired awareness myoclonic seizure",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "age-dependent myoclonic encephalopathy",
+        "candidate_id": "HP:0032832: Neonatal bilateral asymmetric myoclonic seizure",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8681379",
+    "gold_truth": "HP:0004467: Preauricular pit",
+    "text": "pits",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0010610: Palmar pits",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0010612: Plantar pits",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0007517: Palmoplantar cutis laxa",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0100869: Palmar telangiectasia",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0100847: Palmoplantar pustulosis",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0000982: Palmoplantar keratoderma",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0000972: Palmoplantar hyperkeratosis",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0033004: Palmar warts",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0100276: Skin pit",
+        "rank": 9,
+        "relationship": "grandchild"
+      },
+      {
+        "phenotype_text": "pits of the palms and soles",
+        "candidate_id": "HP:0002710: Commissural lip pit",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8755929",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumors",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['autosomal dominant disorder', 'multiple basal cell carcinomas', 'medulloblastoma', 'ovarian fibroma', 'developmental defects', 'recessive cancer-predisposition syndrome', 'Fanconi anemia group C', 'dominant mutation', 'mental retardation', 'conductive hearing loss', 'failure to thrive', 'homozygous inactivation']"
+  },
+  {
+    "doc_id": "8786067",
+    "gold_truth": "HP:0100022: Abnormality of movement",
+    "text": "puppet-like movements",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0002072: Chorea",
+        "rank": 1,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0012172: Stereotypical body rocking",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0002305: Athetosis",
+        "rank": 3,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0001558: Decreased fetal movement",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0000733: Abnormal repetitive mannerisms",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0001337: Tremor",
+        "rank": 6,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0001266: Choreoathetosis",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0002345: Action tremor",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0001336: Myoclonus",
+        "rank": 9,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "puppet-like movement",
+        "candidate_id": "HP:0034360: Action myoclonus",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8832722",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "developmental abnormalities",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['bilateral cleft lip and palate', 'bilateral microphthalmos', 'ocular colobomata', 'dysplastic cleft', 'ophthalmological finding', 'milder facial anomalies', 'abnormality of the philtrum', 'bilateral congenital nasolacrimal duct obstruction', 'mild facial anomalies', 'short philtrum', 'ocular abnormality', 'branchio-oculo-facial syndrome', 'eye', 'face', 'dysplastic left kidney']"
+  },
+  {
+    "doc_id": "8923935",
+    "gold_truth": "HP:0003121: Limb joint contracture",
+    "text": "contractures of the distal limbs",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0002804: Arthrogryposis multiplex congenita",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0002828: Multiple joint contractures",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0002803: Congenital contracture",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0005876: Progressive flexion contractures",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0005745: Congenital foot contractures",
+        "rank": 5,
+        "relationship": "grandparent"
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0005781: Contractures of the large joints",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0006070: Metacarpophalangeal joint contracture",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0005879: Congenital finger flexion contractures",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0005679: Dupuytren contracture",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "multiple congenital contractures of the distal limbs",
+        "candidate_id": "HP:0005997: Neck joint contracture",
+        "rank": 10,
+        "relationship": "sibling"
+      }
+    ]
+  },
+  {
+    "doc_id": "8981943",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "developmental defects",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['nevoid basal cell carcinoma syndrome', 'sporadic basal cell carcinoma', 'mosaicism', 'missense mutation', 'haploinsufficiency']"
+  },
+  {
+    "doc_id": "9024575",
+    "gold_truth": "HP:0000924: Abnormality of the skeletal system",
+    "text": "skeletal and non-skeletal findings",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      "shortness of the second and fifth middle phalanges",
+      "first metacarpal",
+      "hand",
+      "brachydactyly type c phenotype",
+      "second and fifth phalanges",
+      "metacarpal-phalangeal profile",
+      "other digital elements",
+      "bilateral Madelung deformity",
+      "foot involvement",
+      "foot anomaly"
+    ]
+  },
+  {
+    "doc_id": "9096762",
+    "gold_truth": "HP:0003079: Defective DNA repair after ultraviolet radiation damage",
+    "text": "radiosensitive response",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['nevoid basal cell carcinoma syndrome (NBCCS', 'sensitive response of basal cell carcinoma (BCC', 'medulloblastoma at the age of 2 years', 'large odontogenic keratocyst of the mandible', 'pits of the palms and soles', 'numerous BCCs', 'of the back and neck', 'Examination of other relatives', 'chemotherapy']"
+  },
+  {
+    "doc_id": "9096762",
+    "gold_truth": "HP:0000953: Hyperpigmentation of the skin",
+    "text": "increased skin pigmentation",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['nevoid basal cell carcinoma syndrome (NBCCS', 'sensitive response of basal cell carcinoma (BCC', 'medulloblastoma at the age of 2 years', 'large odontogenic keratocyst of the mandible', 'pits of the palms and soles', 'numerous BCCs', 'of the back and neck', 'Examination of other relatives', 'chemotherapy']"
+  },
+  {
+    "doc_id": "9225971",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "retarded",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['neurofibromatosis type 2 (NF2', 'bilateral vestibular schwannomas', 'multiple intracranial meningiomas', 'neurinomas', 'nf2 gene', 'tumorigenesis']"
+  },
+  {
+    "doc_id": "9425907",
+    "gold_truth": "HP:0004378: Abnormality of the anus",
+    "text": "anal, renal, limb and ear anomalies",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0000112: Nephropathy",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0009726: Renal neoplasm",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0005584: Renal cell carcinoma",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0012210: Abnormal renal morphology",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0000123: Nephritis",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0012622: Chronic kidney disease",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0012211: Abnormal renal physiology",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0000075: Renal duplication",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0000077: Abnormality of the kidney",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "renal",
+        "candidate_id": "HP:0030409: Renal transitional cell carcinoma",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "9486718",
+    "gold_truth": "HP:0006477: Abnormal alveolar ridge morphology",
+    "text": "cystic mass in the left posterior alveolar ridge",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['Nevoid basal cell carcinoma syndrome', 'exotropia', 'odontogenic keratocyst', 'palmar', 'plantar pitting', 'impact molar', 'orbit']"
+  },
+  {
+    "doc_id": "9808466",
+    "gold_truth": "HP:0012740: Papilloma",
+    "text": "papilloma",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['maternal deficiency', 'human angelman syndrome', 'cerebellum', 'motor dysfunction', 'inducible seizures', 'context-dependent learning deficit', 'synaptic transmission']"
+  },
+  {
+    "doc_id": "9808466",
+    "gold_truth": "HP:0001270: Motor delay",
+    "text": "motor dysfunction",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0004302: Functional motor deficit",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0100022: Abnormality of movement",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0011442: Abnormal central motor function",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0002071: Abnormality of extrapyramidal motor function",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0007010: Poor fine motor coordination",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0002333: Motor deterioration",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0002275: Poor motor coordination",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0007015: Poor gross motor coordination",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0100660: Dyskinesia",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "motor dysfunction",
+        "candidate_id": "HP:0011804: Abnormal muscle physiology",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "9863591",
+    "gold_truth": "HP:0004375: Neoplasm of the nervous system",
+    "text": "neurogenic tumours",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['unilateral vestibular schwannomas', 'type 2 neurofibromatosis (NF2', 'nf2 represent', 'germline NF2 mutations', 'mutation in the NF2 gene', 'gonosomal mosaicism']"
+  },
+  {
+    "doc_id": "9863591",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumours",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['unilateral vestibular schwannomas', 'type 2 neurofibromatosis (NF2', 'nf2 represent', 'germline NF2 mutations', 'mutation in the NF2 gene', 'gonosomal mosaicism']"
+  },
+  {
+    "doc_id": "9931336",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumours",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['sporadic basal cell carcinoma', 'medulloblastoma', 'nevoid basal cell carcinoma syndrome']"
+  },
+  {
+    "doc_id": "11425952",
+    "gold_truth": "HP:0009831: Mononeuropathy",
+    "text": "axonal mononeuropathy multiplex",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0032018: Multiple mononeuropathy",
+        "rank": 1,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0007002: Motor axonal neuropathy",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0007327: Mixed demyelinating and axonal polyneuropathy",
+        "rank": 3,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0007141: Sensorimotor neuropathy",
+        "rank": 4,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0003477: Peripheral axonal neuropathy",
+        "rank": 5,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0007267: Chronic axonal neuropathy",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0031003: Polyneuritis",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0007178: Motor polyneuropathy",
+        "rank": 8,
+        "relationship": "sibling"
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0002366: Abnormal lower motor neuron morphology",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "axonal mononeuropathy multiplex",
+        "candidate_id": "HP:0007220: Demyelinating motor neuropathy",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "12900905",
+    "gold_truth": "HP:0004295: Abnormal gastric mucosa morphology",
+    "text": "edematous and spotty bleeding mucosa",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0000969: Edema",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0007430: Generalized edema",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0012398: Peripheral edema",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0100748: Muscular edema",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0010741: Pedal edema",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0100598: Pulmonary edema",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0012050: Anasarca",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0002181: Cerebral edema",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0025349: Limbal edema",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "edematous",
+        "candidate_id": "HP:0100665: Angioedema",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "1750770",
+    "gold_truth": "HP:0001622: Premature birth",
+    "text": "preterm infants",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['abnormal rib', 'skin cancer']"
+  },
+  {
+    "doc_id": "18177466",
+    "gold_truth": "HP:0000272: Malar flattening",
+    "text": "flat face",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0012368: Flat face",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0000311: Round face",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:5200015: Muted facial expression",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0000324: Facial asymmetry",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0000300: Oval face",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0000325: Triangular face",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0000275: Narrow face",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0011800: Midface retrusion",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0000321: Square face",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "flat face",
+        "candidate_id": "HP:0011219: Short face",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "7485365",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "developmental abnormalities",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0000478: Abnormality of the eye",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0012372: Abnormal eye morphology",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0000315: Abnormality of the orbital region",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0000606: Abnormality of the periorbital region",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0000528: Anophthalmia",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0200007: Abnormal size of the palpebral fissures",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0100886: Abnormality of globe location",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0100887: Abnormality of globe size",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0007700: Ocular anterior segment dysgenesis",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "developmental abnormalities of the eye",
+        "candidate_id": "HP:0000479: Abnormal retinal morphology",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "8352281",
+    "gold_truth": "HP:0001263: Global developmental delay",
+    "text": "developmental defects",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": [
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0000118: Phenotypic abnormality",
+        "rank": 1,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0001362: Calvarial skull defect",
+        "rank": 2,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0001627: Abnormal heart morphology",
+        "rank": 3,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0000271: Abnormality of the face",
+        "rank": 4,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0040064: Abnormality of limbs",
+        "rank": 5,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0000164: Abnormality of the dentition",
+        "rank": 6,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0034556: Deficit at segmental level",
+        "rank": 7,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0034057: Fetal anomaly",
+        "rank": 8,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0011061: Abnormality of dental structure",
+        "rank": 9,
+        "relationship": null
+      },
+      {
+        "phenotype_text": "defects",
+        "candidate_id": "HP:0006482: Abnormal dental morphology",
+        "rank": 10,
+        "relationship": null
+      }
+    ]
+  },
+  {
+    "doc_id": "9236523",
+    "gold_truth": "HP:0000843: Hyperparathyroidism",
+    "text": "hyperparathyroidism",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['multiple endocrine neoplasia type MEN1', 'cutaneous abnormality', 'men1-associated tumor', 'patients or family members were diagnosed as having tuberous sclerosis', 'skin lesion', 'Multiple facial angiofibromas', 'collagenoma', 'cafe au lait macules', 'lipoma', 'confetti-like hypopigmented macule', 'multiple gingival papule', 'multiple angiofibroma']"
+  },
+  {
+    "doc_id": "9236523",
+    "gold_truth": "HP:0002664: Neoplasm",
+    "text": "tumors",
+    "predicted": null,
+    "rank": null,
+    "relationship": "none",
+    "candidates": "Not extracted correctly - ['multiple endocrine neoplasia type MEN1', 'cutaneous abnormality', 'men1-associated tumor', 'patients or family members were diagnosed as having tuberous sclerosis', 'skin lesion', 'Multiple facial angiofibromas', 'collagenoma', 'cafe au lait macules', 'lipoma', 'confetti-like hypopigmented macule', 'multiple gingival papule', 'multiple angiofibroma']"
+  }
+]
