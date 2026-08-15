@@ -45,8 +45,8 @@ Required resources
 
 Before running PhenoBridge, download all five resource folders listed below:
 
-en_core_sci_scibert-0.5.4
-HPO
+- en_core_sci_scibert-0.5.4 (through https://allenai.github.io/scispacy/, model called en_core_sci_scibert) 
+- HPO: run the 'build_hashmap'
 sapbert_onnx
 SnomedCT_InternationalRF2_PRODUCTION_20260301T120000Z
 vector_spaces
